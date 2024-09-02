@@ -1,0 +1,7702 @@
+[
+    {
+        "example_id": "ie-val-0",
+        "report": "reports/processed_reports/NJR-2024-02-06_10-Q.json",
+        "retrieved_context": [
+            0,
+            46,
+            47,
+            49,
+            279
+        ]
+    },
+    {
+        "example_id": "ie-val-1",
+        "report": "reports/processed_reports/KAII-2024-04-17_10-K.json",
+        "retrieved_context": [
+            240,
+            241,
+            243,
+            390,
+            391
+        ]
+    },
+    {
+        "example_id": "ie-val-2",
+        "report": "reports/processed_reports/MMTRS-2024-04-01_10-K.json",
+        "retrieved_context": [
+            12,
+            16,
+            25,
+            28,
+            29
+        ]
+    },
+    {
+        "example_id": "ie-val-3",
+        "report": "reports/processed_reports/BLBX-2024-04-01_10-K.json",
+        "retrieved_context": [
+            7,
+            10,
+            15,
+            18,
+            216
+        ]
+    },
+    {
+        "example_id": "ie-val-4",
+        "report": "reports/processed_reports/STSSW-2024-03-29_10-K.json",
+        "retrieved_context": [
+            30,
+            113,
+            138,
+            140,
+            214
+        ]
+    },
+    {
+        "example_id": "ie-val-5",
+        "report": "reports/processed_reports/CHCI-2024-03-21_10-K.json",
+        "retrieved_context": [
+            7,
+            62,
+            169,
+            195,
+            218
+        ]
+    },
+    {
+        "example_id": "ie-val-6",
+        "report": "reports/processed_reports/HLI-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            2,
+            80,
+            118
+        ]
+    },
+    {
+        "example_id": "ie-val-7",
+        "report": "reports/processed_reports/MAS-2024-02-08_10-K.json",
+        "retrieved_context": [
+            74,
+            96,
+            207,
+            208,
+            298
+        ]
+    },
+    {
+        "example_id": "ie-val-8",
+        "report": "reports/processed_reports/OSG-2024-03-11_10-K.json",
+        "retrieved_context": [
+            12,
+            32,
+            48,
+            93,
+            100
+        ]
+    },
+    {
+        "example_id": "ie-val-9",
+        "report": "reports/processed_reports/KSCP-2024-04-01_10-K.json",
+        "retrieved_context": [
+            65,
+            70,
+            81,
+            85,
+            92
+        ]
+    },
+    {
+        "example_id": "ie-val-10",
+        "report": "reports/processed_reports/TNET-2024-04-26_10-Q.json",
+        "retrieved_context": [
+            0,
+            27,
+            29,
+            47,
+            98
+        ]
+    },
+    {
+        "example_id": "ie-val-11",
+        "report": "reports/processed_reports/DTGI-2024-03-22_10-Q.json",
+        "retrieved_context": [
+            41,
+            53,
+            96,
+            114,
+            115
+        ]
+    },
+    {
+        "example_id": "ie-val-12",
+        "report": "reports/processed_reports/KSCP-2024-04-01_10-K.json",
+        "retrieved_context": [
+            54,
+            81,
+            85,
+            92,
+            96
+        ]
+    },
+    {
+        "example_id": "ie-val-13",
+        "report": "reports/processed_reports/FTAI-2024-02-26_10-K.json",
+        "retrieved_context": [
+            197,
+            330,
+            398,
+            402,
+            405
+        ]
+    },
+    {
+        "example_id": "ie-val-14",
+        "report": "reports/processed_reports/ELTP-2024-02-14_10-Q.json",
+        "retrieved_context": [
+            1,
+            2,
+            3,
+            44,
+            193
+        ]
+    },
+    {
+        "example_id": "ie-val-15",
+        "report": "reports/processed_reports/KSCP-2024-04-01_10-K.json",
+        "retrieved_context": [
+            81,
+            85,
+            92,
+            93,
+            106
+        ]
+    },
+    {
+        "example_id": "ie-val-16",
+        "report": "reports/processed_reports/MAS-2024-02-08_10-K.json",
+        "retrieved_context": [
+            74,
+            96,
+            208,
+            268,
+            298
+        ]
+    },
+    {
+        "example_id": "ie-val-17",
+        "report": "reports/processed_reports/BLDE-2024-03-12_10-K.json",
+        "retrieved_context": [
+            205,
+            223,
+            233,
+            338,
+            413
+        ]
+    },
+    {
+        "example_id": "ie-val-18",
+        "report": "reports/processed_reports/BBCPW-2024-01-16_10-K.json",
+        "retrieved_context": [
+            103,
+            116,
+            174,
+            178,
+            316
+        ]
+    },
+    {
+        "example_id": "ie-val-19",
+        "report": "reports/processed_reports/QRTEA-2024-02-28_10-K.json",
+        "retrieved_context": [
+            46,
+            59,
+            63,
+            66,
+            88
+        ]
+    },
+    {
+        "example_id": "ie-val-20",
+        "report": "reports/processed_reports/VRVR-2024-04-16_10-K.json",
+        "retrieved_context": [
+            52,
+            55,
+            84,
+            137,
+            144
+        ]
+    },
+    {
+        "example_id": "ie-val-21",
+        "report": "reports/processed_reports/ASIX-2024-02-16_10-K.json",
+        "retrieved_context": [
+            6,
+            24,
+            28,
+            151,
+            290
+        ]
+    },
+    {
+        "example_id": "ie-val-22",
+        "report": "reports/processed_reports/CYTR-2024-03-27_10-K.json",
+        "retrieved_context": [
+            26,
+            95,
+            111,
+            212,
+            218
+        ]
+    },
+    {
+        "example_id": "ie-val-23",
+        "report": "reports/processed_reports/TNET-2024-04-26_10-Q.json",
+        "retrieved_context": [
+            0,
+            27,
+            29,
+            30,
+            98
+        ]
+    },
+    {
+        "example_id": "ie-val-24",
+        "report": "reports/processed_reports/VRVR-2024-04-16_10-K.json",
+        "retrieved_context": [
+            52,
+            53,
+            54,
+            55,
+            56
+        ]
+    },
+    {
+        "example_id": "ie-val-25",
+        "report": "reports/processed_reports/ANY-2024-03-13_10-K.json",
+        "retrieved_context": [
+            10,
+            11,
+            159,
+            338,
+            339
+        ]
+    },
+    {
+        "example_id": "ie-val-26",
+        "report": "reports/processed_reports/SPWH-2024-04-04_10-K.json",
+        "retrieved_context": [
+            171,
+            192,
+            258,
+            262,
+            269
+        ]
+    },
+    {
+        "example_id": "ie-val-27",
+        "report": "reports/processed_reports/ARRT-2024-02-20_10-Q.json",
+        "retrieved_context": [
+            0,
+            2,
+            32,
+            36,
+            49
+        ]
+    },
+    {
+        "example_id": "ie-val-28",
+        "report": "reports/processed_reports/DTGI-2024-03-22_10-Q.json",
+        "retrieved_context": [
+            9,
+            41,
+            52,
+            53,
+            114
+        ]
+    },
+    {
+        "example_id": "ie-val-29",
+        "report": "reports/processed_reports/YOTA-2024-04-15_10-K.json",
+        "retrieved_context": [
+            109,
+            141,
+            143,
+            212,
+            217
+        ]
+    },
+    {
+        "example_id": "ie-val-30",
+        "report": "reports/processed_reports/UBFO-2024-03-26_10-K.json",
+        "retrieved_context": [
+            113,
+            120,
+            123,
+            155,
+            315
+        ]
+    },
+    {
+        "example_id": "ie-val-31",
+        "report": "reports/processed_reports/VISM-2024-02-20_10-Q.json",
+        "retrieved_context": [
+            3,
+            5,
+            68,
+            96,
+            109
+        ]
+    },
+    {
+        "example_id": "ie-val-32",
+        "report": "reports/processed_reports/CHCI-2024-03-21_10-K.json",
+        "retrieved_context": [
+            101,
+            102,
+            154,
+            218,
+            221
+        ]
+    },
+    {
+        "example_id": "ie-val-33",
+        "report": "reports/processed_reports/DHCAU-2024-04-01_10-K.json",
+        "retrieved_context": [
+            2,
+            4,
+            10,
+            13,
+            63
+        ]
+    },
+    {
+        "example_id": "ie-val-34",
+        "report": "reports/processed_reports/SKKY-2024-03-13_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            2,
+            3,
+            47
+        ]
+    },
+    {
+        "example_id": "ie-val-35",
+        "report": "reports/processed_reports/PSA-2024-04-30_10-Q.json",
+        "retrieved_context": [
+            0,
+            72,
+            105,
+            172,
+            205
+        ]
+    },
+    {
+        "example_id": "ie-val-36",
+        "report": "reports/processed_reports/SKKY-2024-03-13_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            2,
+            14,
+            15
+        ]
+    },
+    {
+        "example_id": "ie-val-37",
+        "report": "reports/processed_reports/PSA-2024-04-30_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            105,
+            172,
+            205
+        ]
+    },
+    {
+        "example_id": "ie-val-38",
+        "report": "reports/processed_reports/CHHE-2024-04-01_10-Q.json",
+        "retrieved_context": [
+            0,
+            2,
+            83,
+            93,
+            106
+        ]
+    },
+    {
+        "example_id": "ie-val-39",
+        "report": "reports/processed_reports/CALB-2024-03-21_10-K.json",
+        "retrieved_context": [
+            47,
+            53,
+            70,
+            71,
+            75
+        ]
+    },
+    {
+        "example_id": "ie-val-40",
+        "report": "reports/processed_reports/PAYS-2024-03-27_10-K.json",
+        "retrieved_context": [
+            105,
+            136,
+            174,
+            175,
+            224
+        ]
+    },
+    {
+        "example_id": "ie-val-41",
+        "report": "reports/processed_reports/LEA-2024-04-30_10-Q.json",
+        "retrieved_context": [
+            19,
+            56,
+            91,
+            153,
+            155
+        ]
+    },
+    {
+        "example_id": "ie-val-42",
+        "report": "reports/processed_reports/WRK-2024-02-02_10-Q.json",
+        "retrieved_context": [
+            46,
+            65,
+            70,
+            75,
+            100
+        ]
+    },
+    {
+        "example_id": "ie-val-43",
+        "report": "reports/processed_reports/XPEL-2024-02-28_10-K.json",
+        "retrieved_context": [
+            50,
+            63,
+            76,
+            80,
+            254
+        ]
+    },
+    {
+        "example_id": "ie-val-44",
+        "report": "reports/processed_reports/FTAI-2024-02-26_10-K.json",
+        "retrieved_context": [
+            330,
+            398,
+            402,
+            405,
+            439
+        ]
+    },
+    {
+        "example_id": "ie-val-45",
+        "report": "reports/processed_reports/MGLD-2024-02-14_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            4,
+            12,
+            13
+        ]
+    },
+    {
+        "example_id": "ie-val-46",
+        "report": "reports/processed_reports/PAXH-2024-04-17_10-Q.json",
+        "retrieved_context": [
+            4,
+            6,
+            8,
+            10,
+            44
+        ]
+    },
+    {
+        "example_id": "ie-val-47",
+        "report": "reports/processed_reports/EML-2024-03-12_10-K.json",
+        "retrieved_context": [
+            97,
+            102,
+            106,
+            183,
+            187
+        ]
+    },
+    {
+        "example_id": "ie-val-48",
+        "report": "reports/processed_reports/MMTRS-2024-04-01_10-K.json",
+        "retrieved_context": [
+            4,
+            12,
+            16,
+            25,
+            29
+        ]
+    },
+    {
+        "example_id": "ie-val-49",
+        "report": "reports/processed_reports/GGROU-2024-03-15_10-K.json",
+        "retrieved_context": [
+            80,
+            103,
+            104,
+            128,
+            130
+        ]
+    },
+    {
+        "example_id": "ie-val-50",
+        "report": "reports/processed_reports/XPEL-2024-02-28_10-K.json",
+        "retrieved_context": [
+            32,
+            50,
+            76,
+            80,
+            254
+        ]
+    },
+    {
+        "example_id": "ie-val-51",
+        "report": "reports/processed_reports/DX-PC-2024-02-26_10-K.json",
+        "retrieved_context": [
+            152,
+            162,
+            180,
+            294,
+            325
+        ]
+    },
+    {
+        "example_id": "ie-val-52",
+        "report": "reports/processed_reports/MCS-2024-03-01_10-K.json",
+        "retrieved_context": [
+            171,
+            211,
+            299,
+            339,
+            340
+        ]
+    },
+    {
+        "example_id": "ie-val-53",
+        "report": "reports/processed_reports/PAXH-2024-04-17_10-Q.json",
+        "retrieved_context": [
+            8,
+            32,
+            35,
+            58,
+            65
+        ]
+    },
+    {
+        "example_id": "ie-val-54",
+        "report": "reports/processed_reports/PYCR-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            4,
+            6,
+            91,
+            132,
+            152
+        ]
+    },
+    {
+        "example_id": "ie-val-55",
+        "report": "reports/processed_reports/COLM-2024-02-26_10-K.json",
+        "retrieved_context": [
+            128,
+            257,
+            260,
+            321,
+            333
+        ]
+    },
+    {
+        "example_id": "ie-val-56",
+        "report": "reports/processed_reports/CASS-2024-02-28_10-K.json",
+        "retrieved_context": [
+            78,
+            107,
+            215,
+            216,
+            260
+        ]
+    },
+    {
+        "example_id": "ie-val-57",
+        "report": "reports/processed_reports/DX-PC-2024-02-26_10-K.json",
+        "retrieved_context": [
+            3,
+            60,
+            152,
+            175,
+            318
+        ]
+    },
+    {
+        "example_id": "ie-val-58",
+        "report": "reports/processed_reports/YOTA-2024-04-15_10-K.json",
+        "retrieved_context": [
+            141,
+            143,
+            144,
+            232,
+            233
+        ]
+    },
+    {
+        "example_id": "ie-val-59",
+        "report": "reports/processed_reports/DX-PC-2024-02-26_10-K.json",
+        "retrieved_context": [
+            11,
+            39,
+            197,
+            234,
+            318
+        ]
+    },
+    {
+        "example_id": "ie-val-60",
+        "report": "reports/processed_reports/BBCPW-2024-01-16_10-K.json",
+        "retrieved_context": [
+            103,
+            116,
+            143,
+            174,
+            316
+        ]
+    },
+    {
+        "example_id": "ie-val-61",
+        "report": "reports/processed_reports/CDAQ-2024-04-01_10-K.json",
+        "retrieved_context": [
+            9,
+            190,
+            196,
+            237,
+            304
+        ]
+    },
+    {
+        "example_id": "ie-val-62",
+        "report": "reports/processed_reports/MGLD-2024-02-14_10-Q.json",
+        "retrieved_context": [
+            0,
+            4,
+            12,
+            13,
+            147
+        ]
+    },
+    {
+        "example_id": "ie-val-63",
+        "report": "reports/processed_reports/PTWOU-2024-03-19_10-K.json",
+        "retrieved_context": [
+            155,
+            157,
+            172,
+            203,
+            206
+        ]
+    },
+    {
+        "example_id": "ie-val-64",
+        "report": "reports/processed_reports/PAYS-2024-03-27_10-K.json",
+        "retrieved_context": [
+            123,
+            136,
+            174,
+            209,
+            210
+        ]
+    },
+    {
+        "example_id": "ie-val-65",
+        "report": "reports/processed_reports/BML-PG-2024-04-30_10-Q.json",
+        "retrieved_context": [
+            11,
+            15,
+            19,
+            21,
+            120
+        ]
+    },
+    {
+        "example_id": "ie-val-66",
+        "report": "reports/processed_reports/JKSM-2024-04-16_10-K.json",
+        "retrieved_context": [
+            29,
+            64,
+            86,
+            143,
+            158
+        ]
+    },
+    {
+        "example_id": "ie-val-67",
+        "report": "reports/processed_reports/NOVVU-2024-03-04_10-K.json",
+        "retrieved_context": [
+            4,
+            85,
+            195,
+            197,
+            236
+        ]
+    },
+    {
+        "example_id": "ie-val-68",
+        "report": "reports/processed_reports/ME-2024-02-07_10-Q.json",
+        "retrieved_context": [
+            0,
+            31,
+            174,
+            175,
+            176
+        ]
+    },
+    {
+        "example_id": "ie-val-69",
+        "report": "reports/processed_reports/BML-PG-2024-04-30_10-Q.json",
+        "retrieved_context": [
+            11,
+            15,
+            19,
+            21,
+            120
+        ]
+    },
+    {
+        "example_id": "ie-val-70",
+        "report": "reports/processed_reports/APYP-2024-04-01_10-K.json",
+        "retrieved_context": [
+            46,
+            110,
+            192,
+            272,
+            341
+        ]
+    },
+    {
+        "example_id": "ie-val-71",
+        "report": "reports/processed_reports/CDAQ-2024-04-01_10-K.json",
+        "retrieved_context": [
+            30,
+            196,
+            237,
+            238,
+            304
+        ]
+    },
+    {
+        "example_id": "ie-val-72",
+        "report": "reports/processed_reports/NOTE-2024-03-15_10-K.json",
+        "retrieved_context": [
+            224,
+            271,
+            281,
+            331,
+            334
+        ]
+    },
+    {
+        "example_id": "ie-val-73",
+        "report": "reports/processed_reports/HQY-2024-03-22_10-K.json",
+        "retrieved_context": [
+            293,
+            415,
+            416,
+            417,
+            424
+        ]
+    },
+    {
+        "example_id": "ie-val-74",
+        "report": "reports/processed_reports/XL-2024-04-09_10-K.json",
+        "retrieved_context": [
+            183,
+            300,
+            313,
+            317,
+            371
+        ]
+    },
+    {
+        "example_id": "ie-val-75",
+        "report": "reports/processed_reports/PKTX-2024-03-20_10-K.json",
+        "retrieved_context": [
+            83,
+            124,
+            126,
+            128,
+            144
+        ]
+    },
+    {
+        "example_id": "ie-val-76",
+        "report": "reports/processed_reports/CALB-2024-03-21_10-K.json",
+        "retrieved_context": [
+            24,
+            53,
+            70,
+            71,
+            113
+        ]
+    },
+    {
+        "example_id": "ie-val-77",
+        "report": "reports/processed_reports/FC-2024-01-09_10-Q.json",
+        "retrieved_context": [
+            0,
+            6,
+            8,
+            20,
+            38
+        ]
+    },
+    {
+        "example_id": "ie-val-78",
+        "report": "reports/processed_reports/SDSYA-2024-03-22_10-K.json",
+        "retrieved_context": [
+            146,
+            148,
+            172,
+            178,
+            188
+        ]
+    },
+    {
+        "example_id": "ie-val-79",
+        "report": "reports/processed_reports/CASS-2024-02-28_10-K.json",
+        "retrieved_context": [
+            141,
+            145,
+            152,
+            169,
+            292
+        ]
+    },
+    {
+        "example_id": "ie-val-80",
+        "report": "reports/processed_reports/PYCR-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            4,
+            6,
+            91,
+            132,
+            152
+        ]
+    },
+    {
+        "example_id": "ie-val-81",
+        "report": "reports/processed_reports/ETD-2024-01-24_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            76,
+            80,
+            90
+        ]
+    },
+    {
+        "example_id": "ie-val-82",
+        "report": "reports/processed_reports/ETST-2024-02-20_10-Q.json",
+        "retrieved_context": [
+            1,
+            2,
+            3,
+            4,
+            80
+        ]
+    },
+    {
+        "example_id": "ie-val-83",
+        "report": "reports/processed_reports/DBGI-2024-04-15_10-K.json",
+        "retrieved_context": [
+            62,
+            95,
+            103,
+            106,
+            107
+        ]
+    },
+    {
+        "example_id": "ie-val-84",
+        "report": "reports/processed_reports/FC-2024-01-09_10-Q.json",
+        "retrieved_context": [
+            0,
+            6,
+            8,
+            10,
+            38
+        ]
+    },
+    {
+        "example_id": "ie-val-85",
+        "report": "reports/processed_reports/DLTR-2024-03-20_10-K.json",
+        "retrieved_context": [
+            107,
+            122,
+            135,
+            321,
+            323
+        ]
+    },
+    {
+        "example_id": "ie-val-86",
+        "report": "reports/processed_reports/ANGO-2024-04-09_10-Q.json",
+        "retrieved_context": [
+            15,
+            35,
+            115,
+            124,
+            134
+        ]
+    },
+    {
+        "example_id": "ie-val-87",
+        "report": "reports/processed_reports/CYTK-2024-02-28_10-K.json",
+        "retrieved_context": [
+            269,
+            336,
+            341,
+            343,
+            344
+        ]
+    },
+    {
+        "example_id": "ie-val-88",
+        "report": "reports/processed_reports/BBCPW-2024-01-16_10-K.json",
+        "retrieved_context": [
+            103,
+            116,
+            143,
+            174,
+            316
+        ]
+    },
+    {
+        "example_id": "ie-val-89",
+        "report": "reports/processed_reports/BCC-2024-02-20_10-K.json",
+        "retrieved_context": [
+            98,
+            173,
+            244,
+            293,
+            395
+        ]
+    },
+    {
+        "example_id": "ie-val-90",
+        "report": "reports/processed_reports/KIRK-2024-03-29_10-K.json",
+        "retrieved_context": [
+            1,
+            9,
+            65,
+            191,
+            218
+        ]
+    },
+    {
+        "example_id": "ie-val-91",
+        "report": "reports/processed_reports/HY-2024-02-27_10-K.json",
+        "retrieved_context": [
+            107,
+            108,
+            139,
+            229,
+            348
+        ]
+    },
+    {
+        "example_id": "ie-val-92",
+        "report": "reports/processed_reports/HYMCL-2024-03-14_10-K.json",
+        "retrieved_context": [
+            15,
+            141,
+            160,
+            172,
+            173
+        ]
+    },
+    {
+        "example_id": "ie-val-93",
+        "report": "reports/processed_reports/FC-2024-01-09_10-Q.json",
+        "retrieved_context": [
+            0,
+            3,
+            6,
+            20,
+            38
+        ]
+    },
+    {
+        "example_id": "ie-val-94",
+        "report": "reports/processed_reports/XL-2024-04-09_10-K.json",
+        "retrieved_context": [
+            183,
+            300,
+            314,
+            317,
+            336
+        ]
+    },
+    {
+        "example_id": "ie-val-95",
+        "report": "reports/processed_reports/DX-PC-2024-02-26_10-K.json",
+        "retrieved_context": [
+            152,
+            162,
+            180,
+            234,
+            325
+        ]
+    },
+    {
+        "example_id": "ie-val-96",
+        "report": "reports/processed_reports/PAXH-2024-04-17_10-Q.json",
+        "retrieved_context": [
+            2,
+            4,
+            8,
+            55,
+            59
+        ]
+    },
+    {
+        "example_id": "ie-val-97",
+        "report": "reports/processed_reports/EML-2024-03-12_10-K.json",
+        "retrieved_context": [
+            141,
+            187,
+            197,
+            222,
+            223
+        ]
+    },
+    {
+        "example_id": "ie-val-98",
+        "report": "reports/processed_reports/FTK-2024-03-15_10-K.json",
+        "retrieved_context": [
+            131,
+            183,
+            184,
+            234,
+            253
+        ]
+    },
+    {
+        "example_id": "ie-val-99",
+        "report": "reports/processed_reports/PKTX-2024-03-20_10-K.json",
+        "retrieved_context": [
+            91,
+            124,
+            126,
+            127,
+            128
+        ]
+    },
+    {
+        "example_id": "ie-val-100",
+        "report": "reports/processed_reports/AMN-2024-02-22_10-K.json",
+        "retrieved_context": [
+            64,
+            122,
+            236,
+            238,
+            239
+        ]
+    },
+    {
+        "example_id": "ie-val-101",
+        "report": "reports/processed_reports/HQY-2024-03-22_10-K.json",
+        "retrieved_context": [
+            10,
+            161,
+            187,
+            293,
+            294
+        ]
+    },
+    {
+        "example_id": "ie-val-102",
+        "report": "reports/processed_reports/PYCR-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            4,
+            6,
+            91,
+            132,
+            152
+        ]
+    },
+    {
+        "example_id": "ie-val-103",
+        "report": "reports/processed_reports/NOTE-2024-03-15_10-K.json",
+        "retrieved_context": [
+            0,
+            19,
+            56,
+            204,
+            222
+        ]
+    },
+    {
+        "example_id": "ie-val-104",
+        "report": "reports/processed_reports/CYTK-2024-02-28_10-K.json",
+        "retrieved_context": [
+            269,
+            297,
+            341,
+            343,
+            344
+        ]
+    },
+    {
+        "example_id": "ie-val-105",
+        "report": "reports/processed_reports/ABQQ-2024-04-15_10-Q.json",
+        "retrieved_context": [
+            1,
+            3,
+            4,
+            23,
+            106
+        ]
+    },
+    {
+        "example_id": "ie-val-106",
+        "report": "reports/processed_reports/ME-2024-02-07_10-Q.json",
+        "retrieved_context": [
+            31,
+            49,
+            66,
+            162,
+            175
+        ]
+    },
+    {
+        "example_id": "ie-val-107",
+        "report": "reports/processed_reports/XPEL-2024-02-28_10-K.json",
+        "retrieved_context": [
+            137,
+            139,
+            178,
+            179,
+            220
+        ]
+    },
+    {
+        "example_id": "ie-val-108",
+        "report": "reports/processed_reports/LNBY-2024-02-05_10-Q.json",
+        "retrieved_context": [
+            1,
+            2,
+            3,
+            6,
+            7
+        ]
+    },
+    {
+        "example_id": "ie-val-109",
+        "report": "reports/processed_reports/PKTX-2024-03-20_10-K.json",
+        "retrieved_context": [
+            91,
+            124,
+            126,
+            127,
+            128
+        ]
+    },
+    {
+        "example_id": "ie-val-110",
+        "report": "reports/processed_reports/ETD-2024-01-24_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            76,
+            80,
+            90
+        ]
+    },
+    {
+        "example_id": "ie-val-111",
+        "report": "reports/processed_reports/BLDE-2024-03-12_10-K.json",
+        "retrieved_context": [
+            178,
+            186,
+            338,
+            413,
+            457
+        ]
+    },
+    {
+        "example_id": "ie-val-112",
+        "report": "reports/processed_reports/MCS-2024-03-01_10-K.json",
+        "retrieved_context": [
+            171,
+            211,
+            299,
+            339,
+            340
+        ]
+    },
+    {
+        "example_id": "ie-val-113",
+        "report": "reports/processed_reports/EXDW-2024-02-16_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            2,
+            3,
+            62
+        ]
+    },
+    {
+        "example_id": "ie-val-114",
+        "report": "reports/processed_reports/SDSYA-2024-03-22_10-K.json",
+        "retrieved_context": [
+            65,
+            72,
+            146,
+            148,
+            160
+        ]
+    },
+    {
+        "example_id": "ie-val-115",
+        "report": "reports/processed_reports/BMRN-2024-04-26_10-Q.json",
+        "retrieved_context": [
+            119,
+            125,
+            129,
+            229,
+            271
+        ]
+    },
+    {
+        "example_id": "ie-val-116",
+        "report": "reports/processed_reports/PYCR-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            4,
+            6,
+            91,
+            132,
+            152
+        ]
+    },
+    {
+        "example_id": "ie-val-117",
+        "report": "reports/processed_reports/OSG-2024-03-11_10-K.json",
+        "retrieved_context": [
+            2,
+            5,
+            12,
+            90,
+            267
+        ]
+    },
+    {
+        "example_id": "ie-val-118",
+        "report": "reports/processed_reports/TTEK-2024-02-02_10-Q.json",
+        "retrieved_context": [
+            11,
+            67,
+            116,
+            131,
+            132
+        ]
+    },
+    {
+        "example_id": "ie-val-119",
+        "report": "reports/processed_reports/PYCR-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            4,
+            6,
+            91,
+            132,
+            152
+        ]
+    },
+    {
+        "example_id": "ie-val-120",
+        "report": "reports/processed_reports/BRAC-2024-03-14_10-K.json",
+        "retrieved_context": [
+            69,
+            215,
+            278,
+            280,
+            282
+        ]
+    },
+    {
+        "example_id": "ie-val-121",
+        "report": "reports/processed_reports/DLTR-2024-03-20_10-K.json",
+        "retrieved_context": [
+            107,
+            122,
+            202,
+            321,
+            323
+        ]
+    },
+    {
+        "example_id": "ie-val-122",
+        "report": "reports/processed_reports/XL-2024-04-09_10-K.json",
+        "retrieved_context": [
+            182,
+            183,
+            300,
+            314,
+            317
+        ]
+    },
+    {
+        "example_id": "ie-val-123",
+        "report": "reports/processed_reports/MGLD-2024-02-14_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            2,
+            12,
+            13
+        ]
+    },
+    {
+        "example_id": "ie-val-124",
+        "report": "reports/processed_reports/V-2024-04-24_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            4,
+            7,
+            103
+        ]
+    },
+    {
+        "example_id": "ie-val-125",
+        "report": "reports/processed_reports/BMRN-2024-04-26_10-Q.json",
+        "retrieved_context": [
+            1,
+            66,
+            81,
+            85,
+            189
+        ]
+    },
+    {
+        "example_id": "ie-val-126",
+        "report": "reports/processed_reports/KIRK-2024-03-29_10-K.json",
+        "retrieved_context": [
+            1,
+            9,
+            65,
+            191,
+            218
+        ]
+    },
+    {
+        "example_id": "ie-val-127",
+        "report": "reports/processed_reports/VISM-2024-02-20_10-Q.json",
+        "retrieved_context": [
+            0,
+            2,
+            4,
+            61,
+            68
+        ]
+    },
+    {
+        "example_id": "ie-val-128",
+        "report": "reports/processed_reports/ANY-2024-03-13_10-K.json",
+        "retrieved_context": [
+            50,
+            97,
+            98,
+            138,
+            219
+        ]
+    },
+    {
+        "example_id": "ie-val-129",
+        "report": "reports/processed_reports/LNBY-2024-02-05_10-Q.json",
+        "retrieved_context": [
+            1,
+            3,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "example_id": "ie-val-130",
+        "report": "reports/processed_reports/ETST-2024-02-20_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            2,
+            3,
+            80
+        ]
+    },
+    {
+        "example_id": "ie-val-131",
+        "report": "reports/processed_reports/SKKY-2024-03-13_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            2,
+            3,
+            15
+        ]
+    },
+    {
+        "example_id": "ie-val-132",
+        "report": "reports/processed_reports/OSG-2024-03-11_10-K.json",
+        "retrieved_context": [
+            139,
+            140,
+            154,
+            172,
+            268
+        ]
+    },
+    {
+        "example_id": "ie-val-133",
+        "report": "reports/processed_reports/ARRT-2024-02-20_10-Q.json",
+        "retrieved_context": [
+            0,
+            2,
+            3,
+            20,
+            49
+        ]
+    },
+    {
+        "example_id": "ie-val-134",
+        "report": "reports/processed_reports/SPWH-2024-04-04_10-K.json",
+        "retrieved_context": [
+            0,
+            9,
+            33,
+            42,
+            111
+        ]
+    },
+    {
+        "example_id": "ie-val-135",
+        "report": "reports/processed_reports/AMN-2024-02-22_10-K.json",
+        "retrieved_context": [
+            236,
+            237,
+            238,
+            239,
+            268
+        ]
+    },
+    {
+        "example_id": "ie-val-136",
+        "report": "reports/processed_reports/AMN-2024-02-22_10-K.json",
+        "retrieved_context": [
+            122,
+            200,
+            236,
+            238,
+            268
+        ]
+    },
+    {
+        "example_id": "ie-val-137",
+        "report": "reports/processed_reports/V-2024-04-24_10-Q.json",
+        "retrieved_context": [
+            0,
+            4,
+            7,
+            18,
+            103
+        ]
+    },
+    {
+        "example_id": "ie-val-138",
+        "report": "reports/processed_reports/DBGI-2024-04-15_10-K.json",
+        "retrieved_context": [
+            9,
+            43,
+            62,
+            103,
+            106
+        ]
+    },
+    {
+        "example_id": "ie-val-139",
+        "report": "reports/processed_reports/ME-2024-02-07_10-Q.json",
+        "retrieved_context": [
+            31,
+            130,
+            162,
+            176,
+            183
+        ]
+    },
+    {
+        "example_id": "ie-val-140",
+        "report": "reports/processed_reports/FLUX-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            0,
+            3,
+            71,
+            84,
+            92
+        ]
+    },
+    {
+        "example_id": "ie-val-141",
+        "report": "reports/processed_reports/ANGO-2024-04-09_10-Q.json",
+        "retrieved_context": [
+            15,
+            35,
+            59,
+            115,
+            124
+        ]
+    },
+    {
+        "example_id": "ie-val-142",
+        "report": "reports/processed_reports/BBW-2024-04-18_10-K.json",
+        "retrieved_context": [
+            164,
+            166,
+            215,
+            249,
+            257
+        ]
+    },
+    {
+        "example_id": "ie-val-143",
+        "report": "reports/processed_reports/COLM-2024-02-26_10-K.json",
+        "retrieved_context": [
+            108,
+            128,
+            257,
+            321,
+            333
+        ]
+    },
+    {
+        "example_id": "ie-val-144",
+        "report": "reports/processed_reports/DBGI-2024-04-15_10-K.json",
+        "retrieved_context": [
+            62,
+            92,
+            95,
+            103,
+            106
+        ]
+    },
+    {
+        "example_id": "ie-val-145",
+        "report": "reports/processed_reports/PLDGP-2024-04-25_10-Q.json",
+        "retrieved_context": [
+            0,
+            3,
+            17,
+            107,
+            147
+        ]
+    },
+    {
+        "example_id": "ie-val-146",
+        "report": "reports/processed_reports/BLBX-2024-04-01_10-K.json",
+        "retrieved_context": [
+            7,
+            10,
+            15,
+            18,
+            31
+        ]
+    },
+    {
+        "example_id": "ie-val-147",
+        "report": "reports/processed_reports/FTAI-2024-02-26_10-K.json",
+        "retrieved_context": [
+            137,
+            328,
+            356,
+            396,
+            436
+        ]
+    },
+    {
+        "example_id": "ie-val-148",
+        "report": "reports/processed_reports/HYMCL-2024-03-14_10-K.json",
+        "retrieved_context": [
+            36,
+            44,
+            141,
+            243,
+            363
+        ]
+    },
+    {
+        "example_id": "ie-val-149",
+        "report": "reports/processed_reports/NOVVU-2024-03-04_10-K.json",
+        "retrieved_context": [
+            176,
+            195,
+            196,
+            197,
+            198
+        ]
+    },
+    {
+        "example_id": "ie-val-150",
+        "report": "reports/processed_reports/BODY-2024-03-11_10-K.json",
+        "retrieved_context": [
+            75,
+            258,
+            265,
+            341,
+            354
+        ]
+    },
+    {
+        "example_id": "ie-val-151",
+        "report": "reports/processed_reports/STLD-2024-02-29_10-K.json",
+        "retrieved_context": [
+            60,
+            61,
+            68,
+            75,
+            76
+        ]
+    },
+    {
+        "example_id": "ie-val-152",
+        "report": "reports/processed_reports/COLM-2024-02-26_10-K.json",
+        "retrieved_context": [
+            108,
+            128,
+            257,
+            260,
+            321
+        ]
+    },
+    {
+        "example_id": "ie-val-153",
+        "report": "reports/processed_reports/FC-2024-01-09_10-Q.json",
+        "retrieved_context": [
+            0,
+            3,
+            6,
+            20,
+            38
+        ]
+    },
+    {
+        "example_id": "ie-val-154",
+        "report": "reports/processed_reports/WOLF-2024-02-01_10-Q.json",
+        "retrieved_context": [
+            149,
+            214,
+            218,
+            219,
+            244
+        ]
+    },
+    {
+        "example_id": "ie-val-155",
+        "report": "reports/processed_reports/CALB-2024-03-21_10-K.json",
+        "retrieved_context": [
+            47,
+            53,
+            60,
+            70,
+            74
+        ]
+    },
+    {
+        "example_id": "ie-val-156",
+        "report": "reports/processed_reports/KAII-2024-04-17_10-K.json",
+        "retrieved_context": [
+            26,
+            38,
+            106,
+            115,
+            119
+        ]
+    },
+    {
+        "example_id": "ie-val-157",
+        "report": "reports/processed_reports/DTGI-2024-03-22_10-Q.json",
+        "retrieved_context": [
+            9,
+            41,
+            42,
+            53,
+            114
+        ]
+    },
+    {
+        "example_id": "ie-val-158",
+        "report": "reports/processed_reports/ELTP-2024-02-14_10-Q.json",
+        "retrieved_context": [
+            1,
+            2,
+            3,
+            44,
+            68
+        ]
+    },
+    {
+        "example_id": "ie-val-159",
+        "report": "reports/processed_reports/SPWH-2024-04-04_10-K.json",
+        "retrieved_context": [
+            40,
+            42,
+            43,
+            171,
+            258
+        ]
+    },
+    {
+        "example_id": "ie-val-160",
+        "report": "reports/processed_reports/FTAI-2024-02-26_10-K.json",
+        "retrieved_context": [
+            356,
+            396,
+            398,
+            402,
+            405
+        ]
+    },
+    {
+        "example_id": "ie-val-161",
+        "report": "reports/processed_reports/DHCAU-2024-04-01_10-K.json",
+        "retrieved_context": [
+            66,
+            67,
+            68,
+            69,
+            76
+        ]
+    },
+    {
+        "example_id": "ie-val-162",
+        "report": "reports/processed_reports/WRK-2024-02-02_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            15,
+            75,
+            100
+        ]
+    },
+    {
+        "example_id": "ie-val-163",
+        "report": "reports/processed_reports/WSTRF-2024-04-16_10-K.json",
+        "retrieved_context": [
+            301,
+            321,
+            359,
+            361,
+            398
+        ]
+    },
+    {
+        "example_id": "ie-val-164",
+        "report": "reports/processed_reports/BURL-2024-03-15_10-K.json",
+        "retrieved_context": [
+            19,
+            254,
+            256,
+            264,
+            267
+        ]
+    },
+    {
+        "example_id": "ie-val-165",
+        "report": "reports/processed_reports/PKTX-2024-03-20_10-K.json",
+        "retrieved_context": [
+            39,
+            124,
+            126,
+            127,
+            128
+        ]
+    },
+    {
+        "example_id": "ie-val-166",
+        "report": "reports/processed_reports/ANY-2024-03-13_10-K.json",
+        "retrieved_context": [
+            211,
+            311,
+            314,
+            318,
+            358
+        ]
+    },
+    {
+        "example_id": "ie-val-167",
+        "report": "reports/processed_reports/V-2024-04-24_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            4,
+            6,
+            7
+        ]
+    },
+    {
+        "example_id": "ie-val-168",
+        "report": "reports/processed_reports/XL-2024-04-09_10-K.json",
+        "retrieved_context": [
+            132,
+            183,
+            300,
+            314,
+            317
+        ]
+    },
+    {
+        "example_id": "ie-val-169",
+        "report": "reports/processed_reports/IVCP-2024-04-01_10-K.json",
+        "retrieved_context": [
+            32,
+            56,
+            59,
+            61,
+            79
+        ]
+    },
+    {
+        "example_id": "ie-val-170",
+        "report": "reports/processed_reports/KAII-2024-04-17_10-K.json",
+        "retrieved_context": [
+            26,
+            38,
+            102,
+            115,
+            119
+        ]
+    },
+    {
+        "example_id": "ie-val-171",
+        "report": "reports/processed_reports/BLBX-2024-04-01_10-K.json",
+        "retrieved_context": [
+            8,
+            189,
+            215,
+            216,
+            274
+        ]
+    },
+    {
+        "example_id": "ie-val-172",
+        "report": "reports/processed_reports/AMN-2024-02-22_10-K.json",
+        "retrieved_context": [
+            122,
+            236,
+            238,
+            239,
+            268
+        ]
+    },
+    {
+        "example_id": "ie-val-173",
+        "report": "reports/processed_reports/WOLF-2024-02-01_10-Q.json",
+        "retrieved_context": [
+            51,
+            53,
+            58,
+            149,
+            167
+        ]
+    },
+    {
+        "example_id": "ie-val-174",
+        "report": "reports/processed_reports/PAYS-2024-03-27_10-K.json",
+        "retrieved_context": [
+            136,
+            174,
+            209,
+            242,
+            243
+        ]
+    },
+    {
+        "example_id": "ie-val-175",
+        "report": "reports/processed_reports/AMAO-2024-04-16_10-K.json",
+        "retrieved_context": [
+            36,
+            37,
+            38,
+            122,
+            173
+        ]
+    },
+    {
+        "example_id": "ie-val-176",
+        "report": "reports/processed_reports/APYP-2024-04-01_10-K.json",
+        "retrieved_context": [
+            1,
+            46,
+            76,
+            207,
+            260
+        ]
+    },
+    {
+        "example_id": "ie-val-177",
+        "report": "reports/processed_reports/MGLD-2024-02-14_10-Q.json",
+        "retrieved_context": [
+            0,
+            12,
+            13,
+            35,
+            118
+        ]
+    },
+    {
+        "example_id": "ie-val-178",
+        "report": "reports/processed_reports/TNET-2024-04-26_10-Q.json",
+        "retrieved_context": [
+            0,
+            29,
+            30,
+            57,
+            98
+        ]
+    },
+    {
+        "example_id": "ie-val-179",
+        "report": "reports/processed_reports/QRTEA-2024-02-28_10-K.json",
+        "retrieved_context": [
+            46,
+            59,
+            63,
+            74,
+            88
+        ]
+    },
+    {
+        "example_id": "ie-val-180",
+        "report": "reports/processed_reports/AMAO-2024-04-16_10-K.json",
+        "retrieved_context": [
+            37,
+            105,
+            106,
+            184,
+            185
+        ]
+    },
+    {
+        "example_id": "ie-val-181",
+        "report": "reports/processed_reports/LEA-2024-04-30_10-Q.json",
+        "retrieved_context": [
+            2,
+            3,
+            6,
+            7,
+            135
+        ]
+    },
+    {
+        "example_id": "ie-val-182",
+        "report": "reports/processed_reports/NOTE-2024-03-15_10-K.json",
+        "retrieved_context": [
+            222,
+            271,
+            321,
+            364,
+            368
+        ]
+    },
+    {
+        "example_id": "ie-val-183",
+        "report": "reports/processed_reports/CHHE-2024-04-01_10-Q.json",
+        "retrieved_context": [
+            0,
+            2,
+            3,
+            83,
+            93
+        ]
+    },
+    {
+        "example_id": "ie-val-184",
+        "report": "reports/processed_reports/HY-2024-02-27_10-K.json",
+        "retrieved_context": [
+            107,
+            139,
+            240,
+            310,
+            348
+        ]
+    },
+    {
+        "example_id": "ie-val-185",
+        "report": "reports/processed_reports/BML-PG-2024-04-30_10-Q.json",
+        "retrieved_context": [
+            11,
+            15,
+            19,
+            21,
+            120
+        ]
+    },
+    {
+        "example_id": "ie-val-186",
+        "report": "reports/processed_reports/COLM-2024-02-26_10-K.json",
+        "retrieved_context": [
+            108,
+            128,
+            257,
+            321,
+            333
+        ]
+    },
+    {
+        "example_id": "ie-val-187",
+        "report": "reports/processed_reports/ELRE-2024-02-14_10-Q.json",
+        "retrieved_context": [
+            0,
+            42,
+            51,
+            54,
+            64
+        ]
+    },
+    {
+        "example_id": "ie-val-188",
+        "report": "reports/processed_reports/FTK-2024-03-15_10-K.json",
+        "retrieved_context": [
+            179,
+            180,
+            183,
+            253,
+            278
+        ]
+    },
+    {
+        "example_id": "ie-val-189",
+        "report": "reports/processed_reports/BRAC-2024-03-14_10-K.json",
+        "retrieved_context": [
+            8,
+            13,
+            14,
+            69,
+            232
+        ]
+    },
+    {
+        "example_id": "ie-val-190",
+        "report": "reports/processed_reports/ZOM-2024-04-01_10-K.json",
+        "retrieved_context": [
+            59,
+            69,
+            70,
+            72,
+            78
+        ]
+    },
+    {
+        "example_id": "ie-val-191",
+        "report": "reports/processed_reports/LNBY-2024-02-05_10-Q.json",
+        "retrieved_context": [
+            1,
+            2,
+            3,
+            6,
+            7
+        ]
+    },
+    {
+        "example_id": "ie-val-192",
+        "report": "reports/processed_reports/VRVR-2024-04-16_10-K.json",
+        "retrieved_context": [
+            17,
+            52,
+            53,
+            54,
+            137
+        ]
+    },
+    {
+        "example_id": "ie-val-193",
+        "report": "reports/processed_reports/PTWOU-2024-03-19_10-K.json",
+        "retrieved_context": [
+            127,
+            129,
+            155,
+            157,
+            158
+        ]
+    },
+    {
+        "example_id": "ie-val-194",
+        "report": "reports/processed_reports/VPG-2024-02-29_10-K.json",
+        "retrieved_context": [
+            154,
+            161,
+            169,
+            332,
+            333
+        ]
+    },
+    {
+        "example_id": "ie-val-195",
+        "report": "reports/processed_reports/BLDE-2024-03-12_10-K.json",
+        "retrieved_context": [
+            319,
+            338,
+            403,
+            413,
+            457
+        ]
+    },
+    {
+        "example_id": "ie-val-196",
+        "report": "reports/processed_reports/KSCP-2024-04-01_10-K.json",
+        "retrieved_context": [
+            29,
+            30,
+            33,
+            35,
+            84
+        ]
+    },
+    {
+        "example_id": "ie-val-197",
+        "report": "reports/processed_reports/ZOM-2024-04-01_10-K.json",
+        "retrieved_context": [
+            59,
+            69,
+            70,
+            73,
+            78
+        ]
+    },
+    {
+        "example_id": "ie-val-198",
+        "report": "reports/processed_reports/KSCP-2024-04-01_10-K.json",
+        "retrieved_context": [
+            6,
+            8,
+            49,
+            52,
+            71
+        ]
+    },
+    {
+        "example_id": "ie-val-199",
+        "report": "reports/processed_reports/PHM-2024-04-23_10-Q.json",
+        "retrieved_context": [
+            32,
+            37,
+            90,
+            100,
+            104
+        ]
+    },
+    {
+        "example_id": "ie-val-200",
+        "report": "reports/processed_reports/TRTX-PC-2024-04-30_10-Q.json",
+        "retrieved_context": [
+            4,
+            146,
+            197,
+            198,
+            248
+        ]
+    },
+    {
+        "example_id": "ie-val-201",
+        "report": "reports/processed_reports/ARRT-2024-02-20_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            2,
+            3,
+            49
+        ]
+    },
+    {
+        "example_id": "ie-val-202",
+        "report": "reports/processed_reports/SDSYA-2024-03-22_10-K.json",
+        "retrieved_context": [
+            72,
+            146,
+            172,
+            178,
+            188
+        ]
+    },
+    {
+        "example_id": "ie-val-203",
+        "report": "reports/processed_reports/PTWOU-2024-03-19_10-K.json",
+        "retrieved_context": [
+            155,
+            157,
+            185,
+            190,
+            206
+        ]
+    },
+    {
+        "example_id": "ie-val-204",
+        "report": "reports/processed_reports/BBCPW-2024-01-16_10-K.json",
+        "retrieved_context": [
+            103,
+            116,
+            143,
+            174,
+            316
+        ]
+    },
+    {
+        "example_id": "ie-val-205",
+        "report": "reports/processed_reports/ETD-2024-01-24_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            76,
+            80,
+            90
+        ]
+    },
+    {
+        "example_id": "ie-val-206",
+        "report": "reports/processed_reports/DLTR-2024-03-20_10-K.json",
+        "retrieved_context": [
+            62,
+            107,
+            122,
+            152,
+            321
+        ]
+    },
+    {
+        "example_id": "ie-val-207",
+        "report": "reports/processed_reports/MCS-2024-03-01_10-K.json",
+        "retrieved_context": [
+            5,
+            139,
+            191,
+            339,
+            340
+        ]
+    },
+    {
+        "example_id": "ie-val-208",
+        "report": "reports/processed_reports/CHHE-2024-04-01_10-Q.json",
+        "retrieved_context": [
+            0,
+            83,
+            93,
+            103,
+            106
+        ]
+    },
+    {
+        "example_id": "ie-val-209",
+        "report": "reports/processed_reports/TNET-2024-04-26_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            27,
+            29,
+            30
+        ]
+    },
+    {
+        "example_id": "ie-val-210",
+        "report": "reports/processed_reports/KORE-WT-2024-04-15_10-K.json",
+        "retrieved_context": [
+            128,
+            130,
+            262,
+            297,
+            324
+        ]
+    },
+    {
+        "example_id": "ie-val-211",
+        "report": "reports/processed_reports/HLI-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            2,
+            118,
+            126
+        ]
+    },
+    {
+        "example_id": "ie-val-212",
+        "report": "reports/processed_reports/FC-2024-01-09_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            3,
+            6,
+            8
+        ]
+    },
+    {
+        "example_id": "ie-val-213",
+        "report": "reports/processed_reports/HNI-2024-02-27_10-K.json",
+        "retrieved_context": [
+            101,
+            102,
+            110,
+            116,
+            360
+        ]
+    },
+    {
+        "example_id": "ie-val-214",
+        "report": "reports/processed_reports/HLI-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            2,
+            4,
+            62
+        ]
+    },
+    {
+        "example_id": "ie-val-215",
+        "report": "reports/processed_reports/LMNR-2024-03-07_10-Q.json",
+        "retrieved_context": [
+            0,
+            62,
+            82,
+            83,
+            110
+        ]
+    },
+    {
+        "example_id": "ie-val-216",
+        "report": "reports/processed_reports/ME-2024-02-07_10-Q.json",
+        "retrieved_context": [
+            0,
+            31,
+            174,
+            175,
+            176
+        ]
+    },
+    {
+        "example_id": "ie-val-217",
+        "report": "reports/processed_reports/BMRN-2024-04-26_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            21,
+            81,
+            85
+        ]
+    },
+    {
+        "example_id": "ie-val-218",
+        "report": "reports/processed_reports/CHHE-2024-04-01_10-Q.json",
+        "retrieved_context": [
+            0,
+            2,
+            83,
+            93,
+            106
+        ]
+    },
+    {
+        "example_id": "ie-val-219",
+        "report": "reports/processed_reports/ETD-2024-01-24_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            76,
+            80,
+            90
+        ]
+    },
+    {
+        "example_id": "ie-val-220",
+        "report": "reports/processed_reports/SKKY-2024-03-13_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            2,
+            3,
+            47
+        ]
+    },
+    {
+        "example_id": "ie-val-221",
+        "report": "reports/processed_reports/PKTX-2024-03-20_10-K.json",
+        "retrieved_context": [
+            38,
+            39,
+            57,
+            126,
+            144
+        ]
+    },
+    {
+        "example_id": "ie-val-222",
+        "report": "reports/processed_reports/SACH-PA-2024-04-01_10-K.json",
+        "retrieved_context": [
+            13,
+            94,
+            111,
+            112,
+            117
+        ]
+    },
+    {
+        "example_id": "ie-val-223",
+        "report": "reports/processed_reports/BBW-2024-04-18_10-K.json",
+        "retrieved_context": [
+            164,
+            166,
+            213,
+            215,
+            249
+        ]
+    },
+    {
+        "example_id": "ie-val-224",
+        "report": "reports/processed_reports/KAII-2024-04-17_10-K.json",
+        "retrieved_context": [
+            275,
+            292,
+            304,
+            341,
+            366
+        ]
+    },
+    {
+        "example_id": "ie-val-225",
+        "report": "reports/processed_reports/ELTP-2024-02-14_10-Q.json",
+        "retrieved_context": [
+            1,
+            2,
+            3,
+            44,
+            128
+        ]
+    },
+    {
+        "example_id": "ie-val-226",
+        "report": "reports/processed_reports/ETST-2024-02-20_10-Q.json",
+        "retrieved_context": [
+            1,
+            2,
+            3,
+            4,
+            80
+        ]
+    },
+    {
+        "example_id": "ie-val-227",
+        "report": "reports/processed_reports/WSTRF-2024-04-16_10-K.json",
+        "retrieved_context": [
+            56,
+            71,
+            271,
+            301,
+            359
+        ]
+    },
+    {
+        "example_id": "ie-val-228",
+        "report": "reports/processed_reports/BLBX-2024-04-01_10-K.json",
+        "retrieved_context": [
+            7,
+            10,
+            18,
+            215,
+            216
+        ]
+    },
+    {
+        "example_id": "ie-val-229",
+        "report": "reports/processed_reports/DECAU-2024-04-01_10-K.json",
+        "retrieved_context": [
+            12,
+            112,
+            140,
+            217,
+            237
+        ]
+    },
+    {
+        "example_id": "ie-val-230",
+        "report": "reports/processed_reports/GGROU-2024-03-15_10-K.json",
+        "retrieved_context": [
+            80,
+            102,
+            104,
+            128,
+            130
+        ]
+    },
+    {
+        "example_id": "ie-val-231",
+        "report": "reports/processed_reports/KORE-WT-2024-04-15_10-K.json",
+        "retrieved_context": [
+            4,
+            10,
+            297,
+            324,
+            420
+        ]
+    },
+    {
+        "example_id": "ie-val-232",
+        "report": "reports/processed_reports/JKSM-2024-04-16_10-K.json",
+        "retrieved_context": [
+            14,
+            18,
+            86,
+            143,
+            158
+        ]
+    },
+    {
+        "example_id": "ie-val-233",
+        "report": "reports/processed_reports/WOLF-2024-02-01_10-Q.json",
+        "retrieved_context": [
+            58,
+            149,
+            151,
+            152,
+            160
+        ]
+    },
+    {
+        "example_id": "ie-val-234",
+        "report": "reports/processed_reports/DX-PC-2024-02-26_10-K.json",
+        "retrieved_context": [
+            152,
+            162,
+            175,
+            180,
+            325
+        ]
+    },
+    {
+        "example_id": "ie-val-235",
+        "report": "reports/processed_reports/OSG-2024-03-11_10-K.json",
+        "retrieved_context": [
+            172,
+            198,
+            199,
+            267,
+            268
+        ]
+    },
+    {
+        "example_id": "ie-val-236",
+        "report": "reports/processed_reports/AP-2024-03-25_10-K.json",
+        "retrieved_context": [
+            97,
+            108,
+            154,
+            155,
+            161
+        ]
+    },
+    {
+        "example_id": "ie-val-237",
+        "report": "reports/processed_reports/PSA-2024-04-30_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            105,
+            205,
+            207
+        ]
+    },
+    {
+        "example_id": "ie-val-238",
+        "report": "reports/processed_reports/CLAR-2024-03-07_10-K.json",
+        "retrieved_context": [
+            81,
+            85,
+            88,
+            90,
+            102
+        ]
+    },
+    {
+        "example_id": "ie-val-239",
+        "report": "reports/processed_reports/EXDW-2024-02-16_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            2,
+            32,
+            33
+        ]
+    },
+    {
+        "example_id": "ie-val-240",
+        "report": "reports/processed_reports/TNET-2024-04-26_10-Q.json",
+        "retrieved_context": [
+            0,
+            29,
+            30,
+            57,
+            98
+        ]
+    },
+    {
+        "example_id": "ie-val-241",
+        "report": "reports/processed_reports/WOLF-2024-02-01_10-Q.json",
+        "retrieved_context": [
+            1,
+            2,
+            3,
+            7,
+            152
+        ]
+    },
+    {
+        "example_id": "ie-val-242",
+        "report": "reports/processed_reports/DECAU-2024-04-01_10-K.json",
+        "retrieved_context": [
+            18,
+            112,
+            141,
+            147,
+            197
+        ]
+    },
+    {
+        "example_id": "ie-val-243",
+        "report": "reports/processed_reports/BRID-2024-01-29_10-K.json",
+        "retrieved_context": [
+            33,
+            112,
+            191,
+            192,
+            194
+        ]
+    },
+    {
+        "example_id": "ie-val-244",
+        "report": "reports/processed_reports/DLTR-2024-03-20_10-K.json",
+        "retrieved_context": [
+            122,
+            135,
+            138,
+            204,
+            321
+        ]
+    },
+    {
+        "example_id": "ie-val-245",
+        "report": "reports/processed_reports/OSG-2024-03-11_10-K.json",
+        "retrieved_context": [
+            32,
+            79,
+            93,
+            104,
+            267
+        ]
+    },
+    {
+        "example_id": "ie-val-246",
+        "report": "reports/processed_reports/IVCP-2024-04-01_10-K.json",
+        "retrieved_context": [
+            32,
+            76,
+            79,
+            80,
+            81
+        ]
+    },
+    {
+        "example_id": "ie-val-247",
+        "report": "reports/processed_reports/VRVR-2024-04-16_10-K.json",
+        "retrieved_context": [
+            52,
+            54,
+            55,
+            84,
+            137
+        ]
+    },
+    {
+        "example_id": "ie-val-248",
+        "report": "reports/processed_reports/STSSW-2024-03-29_10-K.json",
+        "retrieved_context": [
+            113,
+            138,
+            140,
+            204,
+            214
+        ]
+    },
+    {
+        "example_id": "ie-val-249",
+        "report": "reports/processed_reports/EXDW-2024-02-16_10-Q.json",
+        "retrieved_context": [
+            2,
+            15,
+            32,
+            44,
+            52
+        ]
+    },
+    {
+        "example_id": "numeric-val-0",
+        "report": "reports/processed_reports/RHP-2024-02-23_10-K.json",
+        "retrieved_context": [
+            51,
+            96,
+            108,
+            125,
+            133
+        ]
+    },
+    {
+        "example_id": "numeric-val-1",
+        "report": "reports/processed_reports/MADL-2024-03-22_10-K.json",
+        "retrieved_context": [
+            63,
+            69,
+            116,
+            118,
+            178
+        ]
+    },
+    {
+        "example_id": "numeric-val-2",
+        "report": "reports/processed_reports/DKDCU-2024-04-09_10-K.json",
+        "retrieved_context": [
+            169,
+            189,
+            203,
+            214,
+            233
+        ]
+    },
+    {
+        "example_id": "numeric-val-3",
+        "report": "reports/processed_reports/CNTX-2024-03-21_10-K.json",
+        "retrieved_context": [
+            271,
+            274,
+            305,
+            337,
+            344
+        ]
+    },
+    {
+        "example_id": "numeric-val-4",
+        "report": "reports/processed_reports/MOBQW-2024-04-08_10-K.json",
+        "retrieved_context": [
+            187,
+            288,
+            352,
+            360,
+            387
+        ]
+    },
+    {
+        "example_id": "numeric-val-5",
+        "report": "reports/processed_reports/VEEV-2024-03-25_10-K.json",
+        "retrieved_context": [
+            181,
+            204,
+            208,
+            268,
+            385
+        ]
+    },
+    {
+        "example_id": "numeric-val-6",
+        "report": "reports/processed_reports/LOOP-2024-01-16_10-Q.json",
+        "retrieved_context": [
+            35,
+            120,
+            122,
+            125,
+            127
+        ]
+    },
+    {
+        "example_id": "numeric-val-7",
+        "report": "reports/processed_reports/CRTG-2024-03-21_10-K.json",
+        "retrieved_context": [
+            133,
+            155,
+            157,
+            211,
+            212
+        ]
+    },
+    {
+        "example_id": "numeric-val-8",
+        "report": "reports/processed_reports/PLDGP-2024-04-25_10-Q.json",
+        "retrieved_context": [
+            1,
+            4,
+            14,
+            107,
+            147
+        ]
+    },
+    {
+        "example_id": "numeric-val-9",
+        "report": "reports/processed_reports/SOHOO-2024-03-22_10-K.json",
+        "retrieved_context": [
+            189,
+            213,
+            284,
+            348,
+            355
+        ]
+    },
+    {
+        "example_id": "numeric-val-10",
+        "report": "reports/processed_reports/SSNC-2024-02-28_10-K.json",
+        "retrieved_context": [
+            5,
+            194,
+            289,
+            305,
+            311
+        ]
+    },
+    {
+        "example_id": "numeric-val-11",
+        "report": "reports/processed_reports/HBIO-2024-03-07_10-K.json",
+        "retrieved_context": [
+            181,
+            220,
+            221,
+            245,
+            247
+        ]
+    },
+    {
+        "example_id": "numeric-val-12",
+        "report": "reports/processed_reports/STSSW-2024-03-29_10-K.json",
+        "retrieved_context": [
+            113,
+            115,
+            140,
+            202,
+            249
+        ]
+    },
+    {
+        "example_id": "numeric-val-13",
+        "report": "reports/processed_reports/CRTG-2024-03-21_10-K.json",
+        "retrieved_context": [
+            107,
+            155,
+            211,
+            212,
+            216
+        ]
+    },
+    {
+        "example_id": "numeric-val-14",
+        "report": "reports/processed_reports/ZOM-2024-04-01_10-K.json",
+        "retrieved_context": [
+            59,
+            62,
+            70,
+            73,
+            78
+        ]
+    },
+    {
+        "example_id": "numeric-val-15",
+        "report": "reports/processed_reports/CSUI-2024-01-12_10-Q.json",
+        "retrieved_context": [
+            3,
+            4,
+            12,
+            15,
+            16
+        ]
+    },
+    {
+        "example_id": "numeric-val-16",
+        "report": "reports/processed_reports/NOTE-2024-03-15_10-K.json",
+        "retrieved_context": [
+            224,
+            292,
+            329,
+            331,
+            332
+        ]
+    },
+    {
+        "example_id": "numeric-val-17",
+        "report": "reports/processed_reports/LMAT-2024-02-29_10-K.json",
+        "retrieved_context": [
+            275,
+            276,
+            281,
+            333,
+            391
+        ]
+    },
+    {
+        "example_id": "numeric-val-18",
+        "report": "reports/processed_reports/WWW-2024-02-22_10-K.json",
+        "retrieved_context": [
+            110,
+            223,
+            248,
+            309,
+            310
+        ]
+    },
+    {
+        "example_id": "numeric-val-19",
+        "report": "reports/processed_reports/CRTG-2024-03-21_10-K.json",
+        "retrieved_context": [
+            41,
+            133,
+            135,
+            210,
+            211
+        ]
+    },
+    {
+        "example_id": "numeric-val-20",
+        "report": "reports/processed_reports/MOBQW-2024-04-08_10-K.json",
+        "retrieved_context": [
+            96,
+            187,
+            188,
+            189,
+            191
+        ]
+    },
+    {
+        "example_id": "numeric-val-21",
+        "report": "reports/processed_reports/KMT-2024-02-07_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            63,
+            95,
+            104
+        ]
+    },
+    {
+        "example_id": "numeric-val-22",
+        "report": "reports/processed_reports/CRTG-2024-03-21_10-K.json",
+        "retrieved_context": [
+            107,
+            108,
+            155,
+            211,
+            212
+        ]
+    },
+    {
+        "example_id": "numeric-val-23",
+        "report": "reports/processed_reports/KCAC-UN-2024-03-28_10-K.json",
+        "retrieved_context": [
+            125,
+            294,
+            383,
+            410,
+            421
+        ]
+    },
+    {
+        "example_id": "numeric-val-24",
+        "report": "reports/processed_reports/MGLD-2024-02-14_10-Q.json",
+        "retrieved_context": [
+            4,
+            12,
+            13,
+            22,
+            74
+        ]
+    },
+    {
+        "example_id": "numeric-val-25",
+        "report": "reports/processed_reports/BMNR-2024-01-12_10-Q.json",
+        "retrieved_context": [
+            4,
+            49,
+            72,
+            80,
+            92
+        ]
+    },
+    {
+        "example_id": "numeric-val-26",
+        "report": "reports/processed_reports/MADL-2024-03-22_10-K.json",
+        "retrieved_context": [
+            63,
+            69,
+            116,
+            118,
+            199
+        ]
+    },
+    {
+        "example_id": "numeric-val-27",
+        "report": "reports/processed_reports/LNBY-2024-02-05_10-Q.json",
+        "retrieved_context": [
+            1,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "example_id": "numeric-val-28",
+        "report": "reports/processed_reports/CASS-2024-02-28_10-K.json",
+        "retrieved_context": [
+            141,
+            145,
+            152,
+            155,
+            354
+        ]
+    },
+    {
+        "example_id": "numeric-val-29",
+        "report": "reports/processed_reports/REBN-2024-03-28_10-K.json",
+        "retrieved_context": [
+            247,
+            248,
+            250,
+            332,
+            333
+        ]
+    },
+    {
+        "example_id": "numeric-val-30",
+        "report": "reports/processed_reports/PROV-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            8,
+            22,
+            23,
+            24,
+            40
+        ]
+    },
+    {
+        "example_id": "numeric-val-31",
+        "report": "reports/processed_reports/HAE-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            0,
+            91,
+            99,
+            110,
+            112
+        ]
+    },
+    {
+        "example_id": "numeric-val-32",
+        "report": "reports/processed_reports/CNTX-2024-03-21_10-K.json",
+        "retrieved_context": [
+            274,
+            337,
+            347,
+            369,
+            372
+        ]
+    },
+    {
+        "example_id": "numeric-val-33",
+        "report": "reports/processed_reports/PROV-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            8,
+            22,
+            23,
+            28,
+            40
+        ]
+    },
+    {
+        "example_id": "numeric-val-34",
+        "report": "reports/processed_reports/CMCO-2024-01-31_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            11,
+            51,
+            118
+        ]
+    },
+    {
+        "example_id": "numeric-val-35",
+        "report": "reports/processed_reports/SAFT-2024-02-28_10-K.json",
+        "retrieved_context": [
+            18,
+            19,
+            56,
+            78,
+            88
+        ]
+    },
+    {
+        "example_id": "numeric-val-36",
+        "report": "reports/processed_reports/RICK-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            0,
+            25,
+            52,
+            71,
+            104
+        ]
+    },
+    {
+        "example_id": "numeric-val-37",
+        "report": "reports/processed_reports/BREZR-2024-04-01_10-K.json",
+        "retrieved_context": [
+            93,
+            351,
+            353,
+            356,
+            361
+        ]
+    },
+    {
+        "example_id": "numeric-val-38",
+        "report": "reports/processed_reports/POLA-2024-04-01_10-K.json",
+        "retrieved_context": [
+            111,
+            227,
+            301,
+            302,
+            396
+        ]
+    },
+    {
+        "example_id": "numeric-val-39",
+        "report": "reports/processed_reports/LCW-2024-04-04_10-K.json",
+        "retrieved_context": [
+            129,
+            131,
+            132,
+            134,
+            142
+        ]
+    },
+    {
+        "example_id": "numeric-val-40",
+        "report": "reports/processed_reports/VEEV-2024-03-25_10-K.json",
+        "retrieved_context": [
+            204,
+            208,
+            268,
+            367,
+            385
+        ]
+    },
+    {
+        "example_id": "numeric-val-41",
+        "report": "reports/processed_reports/STSSW-2024-03-29_10-K.json",
+        "retrieved_context": [
+            30,
+            113,
+            140,
+            202,
+            207
+        ]
+    },
+    {
+        "example_id": "numeric-val-42",
+        "report": "reports/processed_reports/SOHOO-2024-03-22_10-K.json",
+        "retrieved_context": [
+            213,
+            251,
+            257,
+            344,
+            352
+        ]
+    },
+    {
+        "example_id": "numeric-val-43",
+        "report": "reports/processed_reports/HLI-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            54,
+            62,
+            99,
+            118,
+            126
+        ]
+    },
+    {
+        "example_id": "numeric-val-44",
+        "report": "reports/processed_reports/MMTLP-2024-03-28_10-K.json",
+        "retrieved_context": [
+            325,
+            330,
+            335,
+            343,
+            345
+        ]
+    },
+    {
+        "example_id": "numeric-val-45",
+        "report": "reports/processed_reports/REBN-2024-03-28_10-K.json",
+        "retrieved_context": [
+            247,
+            248,
+            250,
+            332,
+            333
+        ]
+    },
+    {
+        "example_id": "numeric-val-46",
+        "report": "reports/processed_reports/DFH-2024-02-29_10-K.json",
+        "retrieved_context": [
+            291,
+            293,
+            295,
+            361,
+            370
+        ]
+    },
+    {
+        "example_id": "numeric-val-47",
+        "report": "reports/processed_reports/FF-2024-03-14_10-K.json",
+        "retrieved_context": [
+            212,
+            231,
+            297,
+            325,
+            338
+        ]
+    },
+    {
+        "example_id": "numeric-val-48",
+        "report": "reports/processed_reports/NOTE-2024-03-15_10-K.json",
+        "retrieved_context": [
+            222,
+            224,
+            328,
+            331,
+            332
+        ]
+    },
+    {
+        "example_id": "numeric-val-49",
+        "report": "reports/processed_reports/CZFS-2024-03-07_10-K.json",
+        "retrieved_context": [
+            89,
+            118,
+            133,
+            143,
+            149
+        ]
+    },
+    {
+        "example_id": "numeric-val-50",
+        "report": "reports/processed_reports/BPTH-2024-03-07_10-K.json",
+        "retrieved_context": [
+            61,
+            84,
+            108,
+            111,
+            117
+        ]
+    },
+    {
+        "example_id": "numeric-val-51",
+        "report": "reports/processed_reports/BCC-2024-02-20_10-K.json",
+        "retrieved_context": [
+            163,
+            190,
+            244,
+            268,
+            292
+        ]
+    },
+    {
+        "example_id": "numeric-val-52",
+        "report": "reports/processed_reports/HAE-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            0,
+            91,
+            99,
+            110,
+            112
+        ]
+    },
+    {
+        "example_id": "numeric-val-53",
+        "report": "reports/processed_reports/VPLM-2024-02-14_10-Q.json",
+        "retrieved_context": [
+            1,
+            2,
+            3,
+            86,
+            87
+        ]
+    },
+    {
+        "example_id": "numeric-val-54",
+        "report": "reports/processed_reports/BCC-2024-02-20_10-K.json",
+        "retrieved_context": [
+            244,
+            264,
+            268,
+            282,
+            287
+        ]
+    },
+    {
+        "example_id": "numeric-val-55",
+        "report": "reports/processed_reports/ALKT-2024-02-29_10-K.json",
+        "retrieved_context": [
+            236,
+            373,
+            400,
+            407,
+            441
+        ]
+    },
+    {
+        "example_id": "numeric-val-56",
+        "report": "reports/processed_reports/ZETA-2024-02-28_10-K.json",
+        "retrieved_context": [
+            239,
+            280,
+            283,
+            289,
+            296
+        ]
+    },
+    {
+        "example_id": "numeric-val-57",
+        "report": "reports/processed_reports/CZFS-2024-03-07_10-K.json",
+        "retrieved_context": [
+            89,
+            133,
+            143,
+            146,
+            149
+        ]
+    },
+    {
+        "example_id": "numeric-val-58",
+        "report": "reports/processed_reports/WEAV-2024-03-13_10-K.json",
+        "retrieved_context": [
+            272,
+            327,
+            379,
+            386,
+            422
+        ]
+    },
+    {
+        "example_id": "numeric-val-59",
+        "report": "reports/processed_reports/BAC-PO-2024-04-30_10-Q.json",
+        "retrieved_context": [
+            11,
+            15,
+            19,
+            21,
+            120
+        ]
+    },
+    {
+        "example_id": "numeric-val-60",
+        "report": "reports/processed_reports/CASS-2024-02-28_10-K.json",
+        "retrieved_context": [
+            141,
+            152,
+            170,
+            311,
+            354
+        ]
+    },
+    {
+        "example_id": "numeric-val-61",
+        "report": "reports/processed_reports/BRAC-2024-03-14_10-K.json",
+        "retrieved_context": [
+            125,
+            182,
+            213,
+            214,
+            215
+        ]
+    },
+    {
+        "example_id": "numeric-val-62",
+        "report": "reports/processed_reports/RHP-2024-02-23_10-K.json",
+        "retrieved_context": [
+            51,
+            54,
+            96,
+            115,
+            125
+        ]
+    },
+    {
+        "example_id": "numeric-val-63",
+        "report": "reports/processed_reports/LCW-2024-04-04_10-K.json",
+        "retrieved_context": [
+            57,
+            58,
+            129,
+            139,
+            142
+        ]
+    },
+    {
+        "example_id": "numeric-val-64",
+        "report": "reports/processed_reports/STSSW-2024-03-29_10-K.json",
+        "retrieved_context": [
+            30,
+            113,
+            140,
+            195,
+            214
+        ]
+    },
+    {
+        "example_id": "numeric-val-65",
+        "report": "reports/processed_reports/BOX-2024-03-11_10-K.json",
+        "retrieved_context": [
+            250,
+            251,
+            323,
+            329,
+            331
+        ]
+    },
+    {
+        "example_id": "numeric-val-66",
+        "report": "reports/processed_reports/XSPA-2024-04-16_10-K.json",
+        "retrieved_context": [
+            63,
+            64,
+            93,
+            94,
+            98
+        ]
+    },
+    {
+        "example_id": "numeric-val-67",
+        "report": "reports/processed_reports/CRDF-2024-02-29_10-K.json",
+        "retrieved_context": [
+            215,
+            221,
+            248,
+            249,
+            289
+        ]
+    },
+    {
+        "example_id": "numeric-val-68",
+        "report": "reports/processed_reports/CMCO-2024-01-31_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            50,
+            51,
+            161
+        ]
+    },
+    {
+        "example_id": "numeric-val-69",
+        "report": "reports/processed_reports/ALV-2024-04-26_10-Q.json",
+        "retrieved_context": [
+            2,
+            14,
+            36,
+            55,
+            59
+        ]
+    },
+    {
+        "example_id": "numeric-val-70",
+        "report": "reports/processed_reports/SCI-2024-02-13_10-K.json",
+        "retrieved_context": [
+            195,
+            211,
+            274,
+            280,
+            360
+        ]
+    },
+    {
+        "example_id": "numeric-val-71",
+        "report": "reports/processed_reports/FLO-2024-02-21_10-K.json",
+        "retrieved_context": [
+            103,
+            247,
+            248,
+            260,
+            271
+        ]
+    },
+    {
+        "example_id": "numeric-val-72",
+        "report": "reports/processed_reports/IDT-2024-03-11_10-Q.json",
+        "retrieved_context": [
+            5,
+            23,
+            24,
+            25,
+            50
+        ]
+    },
+    {
+        "example_id": "numeric-val-73",
+        "report": "reports/processed_reports/ZOM-2024-04-01_10-K.json",
+        "retrieved_context": [
+            65,
+            66,
+            67,
+            70,
+            76
+        ]
+    },
+    {
+        "example_id": "numeric-val-74",
+        "report": "reports/processed_reports/SSNC-2024-02-28_10-K.json",
+        "retrieved_context": [
+            185,
+            194,
+            289,
+            305,
+            306
+        ]
+    },
+    {
+        "example_id": "numeric-val-75",
+        "report": "reports/processed_reports/XSPA-2024-04-16_10-K.json",
+        "retrieved_context": [
+            63,
+            64,
+            81,
+            90,
+            99
+        ]
+    },
+    {
+        "example_id": "numeric-val-76",
+        "report": "reports/processed_reports/ODFL-2024-02-26_10-K.json",
+        "retrieved_context": [
+            102,
+            117,
+            118,
+            122,
+            167
+        ]
+    },
+    {
+        "example_id": "numeric-val-77",
+        "report": "reports/processed_reports/RICK-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            0,
+            25,
+            52,
+            71,
+            104
+        ]
+    },
+    {
+        "example_id": "numeric-val-78",
+        "report": "reports/processed_reports/BAC-PO-2024-04-30_10-Q.json",
+        "retrieved_context": [
+            11,
+            15,
+            19,
+            21,
+            76
+        ]
+    },
+    {
+        "example_id": "numeric-val-79",
+        "report": "reports/processed_reports/CZFS-2024-03-07_10-K.json",
+        "retrieved_context": [
+            89,
+            133,
+            138,
+            143,
+            146
+        ]
+    },
+    {
+        "example_id": "numeric-val-80",
+        "report": "reports/processed_reports/VEEV-2024-03-25_10-K.json",
+        "retrieved_context": [
+            204,
+            208,
+            268,
+            385,
+            387
+        ]
+    },
+    {
+        "example_id": "numeric-val-81",
+        "report": "reports/processed_reports/LMAT-2024-02-29_10-K.json",
+        "retrieved_context": [
+            275,
+            298,
+            333,
+            354,
+            360
+        ]
+    },
+    {
+        "example_id": "numeric-val-82",
+        "report": "reports/processed_reports/SCI-2024-02-13_10-K.json",
+        "retrieved_context": [
+            195,
+            196,
+            211,
+            274,
+            280
+        ]
+    },
+    {
+        "example_id": "numeric-val-83",
+        "report": "reports/processed_reports/LOOP-2024-01-16_10-Q.json",
+        "retrieved_context": [
+            35,
+            120,
+            122,
+            125,
+            127
+        ]
+    },
+    {
+        "example_id": "numeric-val-84",
+        "report": "reports/processed_reports/ADRA-WT-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            1,
+            2,
+            3,
+            9,
+            10
+        ]
+    },
+    {
+        "example_id": "numeric-val-85",
+        "report": "reports/processed_reports/MCS-2024-03-01_10-K.json",
+        "retrieved_context": [
+            211,
+            228,
+            299,
+            339,
+            340
+        ]
+    },
+    {
+        "example_id": "numeric-val-86",
+        "report": "reports/processed_reports/PLDGP-2024-04-25_10-Q.json",
+        "retrieved_context": [
+            1,
+            7,
+            13,
+            14,
+            147
+        ]
+    },
+    {
+        "example_id": "numeric-val-87",
+        "report": "reports/processed_reports/CRVW-2024-03-29_10-K.json",
+        "retrieved_context": [
+            221,
+            247,
+            248,
+            252,
+            274
+        ]
+    },
+    {
+        "example_id": "numeric-val-88",
+        "report": "reports/processed_reports/BMTX-2024-04-05_10-K.json",
+        "retrieved_context": [
+            137,
+            138,
+            141,
+            259,
+            264
+        ]
+    },
+    {
+        "example_id": "numeric-val-89",
+        "report": "reports/processed_reports/BREZR-2024-04-01_10-K.json",
+        "retrieved_context": [
+            93,
+            264,
+            351,
+            353,
+            361
+        ]
+    },
+    {
+        "example_id": "numeric-val-90",
+        "report": "reports/processed_reports/ZOM-2024-04-01_10-K.json",
+        "retrieved_context": [
+            69,
+            70,
+            72,
+            73,
+            78
+        ]
+    },
+    {
+        "example_id": "numeric-val-91",
+        "report": "reports/processed_reports/STSSW-2024-03-29_10-K.json",
+        "retrieved_context": [
+            140,
+            220,
+            245,
+            274,
+            276
+        ]
+    },
+    {
+        "example_id": "numeric-val-92",
+        "report": "reports/processed_reports/HLI-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            54,
+            62,
+            99,
+            118,
+            126
+        ]
+    },
+    {
+        "example_id": "numeric-val-93",
+        "report": "reports/processed_reports/KCAC-UN-2024-03-28_10-K.json",
+        "retrieved_context": [
+            314,
+            375,
+            410,
+            420,
+            421
+        ]
+    },
+    {
+        "example_id": "numeric-val-94",
+        "report": "reports/processed_reports/PVNC-2024-04-22_10-K.json",
+        "retrieved_context": [
+            162,
+            182,
+            184,
+            185,
+            241
+        ]
+    },
+    {
+        "example_id": "numeric-val-95",
+        "report": "reports/processed_reports/KCAC-UN-2024-03-28_10-K.json",
+        "retrieved_context": [
+            410,
+            414,
+            421,
+            455,
+            464
+        ]
+    },
+    {
+        "example_id": "numeric-val-96",
+        "report": "reports/processed_reports/BAC-PO-2024-04-30_10-Q.json",
+        "retrieved_context": [
+            11,
+            15,
+            19,
+            21,
+            23
+        ]
+    },
+    {
+        "example_id": "numeric-val-97",
+        "report": "reports/processed_reports/ADVWW-2024-03-01_10-K.json",
+        "retrieved_context": [
+            196,
+            310,
+            311,
+            317,
+            330
+        ]
+    },
+    {
+        "example_id": "numeric-val-98",
+        "report": "reports/processed_reports/RHP-2024-02-23_10-K.json",
+        "retrieved_context": [
+            96,
+            108,
+            115,
+            116,
+            133
+        ]
+    },
+    {
+        "example_id": "numeric-val-99",
+        "report": "reports/processed_reports/SAFT-2024-02-28_10-K.json",
+        "retrieved_context": [
+            19,
+            53,
+            78,
+            89,
+            118
+        ]
+    },
+    {
+        "example_id": "numeric-val-100",
+        "report": "reports/processed_reports/ARTL-2024-03-25_10-K.json",
+        "retrieved_context": [
+            262,
+            263,
+            264,
+            283,
+            409
+        ]
+    },
+    {
+        "example_id": "numeric-val-101",
+        "report": "reports/processed_reports/STSSW-2024-03-29_10-K.json",
+        "retrieved_context": [
+            220,
+            224,
+            245,
+            274,
+            276
+        ]
+    },
+    {
+        "example_id": "numeric-val-102",
+        "report": "reports/processed_reports/SOBR-2024-04-01_10-K.json",
+        "retrieved_context": [
+            166,
+            173,
+            233,
+            237,
+            240
+        ]
+    },
+    {
+        "example_id": "numeric-val-103",
+        "report": "reports/processed_reports/PMD-2024-03-28_10-K.json",
+        "retrieved_context": [
+            144,
+            145,
+            146,
+            148,
+            150
+        ]
+    },
+    {
+        "example_id": "numeric-val-104",
+        "report": "reports/processed_reports/ALPAU-2024-04-01_10-K.json",
+        "retrieved_context": [
+            5,
+            216,
+            218,
+            224,
+            245
+        ]
+    },
+    {
+        "example_id": "numeric-val-105",
+        "report": "reports/processed_reports/ZETA-2024-02-28_10-K.json",
+        "retrieved_context": [
+            171,
+            174,
+            239,
+            280,
+            283
+        ]
+    },
+    {
+        "example_id": "numeric-val-106",
+        "report": "reports/processed_reports/NOTE-2024-03-15_10-K.json",
+        "retrieved_context": [
+            222,
+            224,
+            328,
+            331,
+            332
+        ]
+    },
+    {
+        "example_id": "numeric-val-107",
+        "report": "reports/processed_reports/RYAM-2024-02-29_10-K.json",
+        "retrieved_context": [
+            146,
+            246,
+            298,
+            417,
+            430
+        ]
+    },
+    {
+        "example_id": "numeric-val-108",
+        "report": "reports/processed_reports/SSNC-2024-02-28_10-K.json",
+        "retrieved_context": [
+            185,
+            194,
+            199,
+            289,
+            305
+        ]
+    },
+    {
+        "example_id": "numeric-val-109",
+        "report": "reports/processed_reports/CRTG-2024-03-21_10-K.json",
+        "retrieved_context": [
+            151,
+            155,
+            157,
+            208,
+            211
+        ]
+    },
+    {
+        "example_id": "numeric-val-110",
+        "report": "reports/processed_reports/TGAAW-2024-04-04_10-K.json",
+        "retrieved_context": [
+            25,
+            59,
+            102,
+            103,
+            104
+        ]
+    },
+    {
+        "example_id": "numeric-val-111",
+        "report": "reports/processed_reports/CSUI-2024-01-12_10-Q.json",
+        "retrieved_context": [
+            1,
+            3,
+            4,
+            9,
+            18
+        ]
+    },
+    {
+        "example_id": "numeric-val-112",
+        "report": "reports/processed_reports/LHIL-2024-03-07_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            10,
+            19,
+            30
+        ]
+    },
+    {
+        "example_id": "numeric-val-113",
+        "report": "reports/processed_reports/MMTLP-2024-03-28_10-K.json",
+        "retrieved_context": [
+            228,
+            325,
+            330,
+            335,
+            343
+        ]
+    },
+    {
+        "example_id": "numeric-val-114",
+        "report": "reports/processed_reports/USPH-2024-02-29_10-K.json",
+        "retrieved_context": [
+            214,
+            216,
+            224,
+            225,
+            233
+        ]
+    },
+    {
+        "example_id": "numeric-val-115",
+        "report": "reports/processed_reports/ICD-2024-02-28_10-K.json",
+        "retrieved_context": [
+            43,
+            45,
+            79,
+            80,
+            94
+        ]
+    },
+    {
+        "example_id": "numeric-val-116",
+        "report": "reports/processed_reports/PSIX-2024-03-14_10-K.json",
+        "retrieved_context": [
+            112,
+            200,
+            244,
+            260,
+            309
+        ]
+    },
+    {
+        "example_id": "numeric-val-117",
+        "report": "reports/processed_reports/BAC-PO-2024-04-30_10-Q.json",
+        "retrieved_context": [
+            11,
+            15,
+            19,
+            21,
+            105
+        ]
+    },
+    {
+        "example_id": "numeric-val-118",
+        "report": "reports/processed_reports/WWW-2024-02-22_10-K.json",
+        "retrieved_context": [
+            249,
+            251,
+            351,
+            352,
+            353
+        ]
+    },
+    {
+        "example_id": "numeric-val-119",
+        "report": "reports/processed_reports/HLLK-2024-03-28_10-K.json",
+        "retrieved_context": [
+            90,
+            141,
+            142,
+            143,
+            144
+        ]
+    },
+    {
+        "example_id": "numeric-val-120",
+        "report": "reports/processed_reports/POLA-2024-04-01_10-K.json",
+        "retrieved_context": [
+            195,
+            301,
+            303,
+            314,
+            447
+        ]
+    },
+    {
+        "example_id": "numeric-val-121",
+        "report": "reports/processed_reports/HLLK-2024-03-28_10-K.json",
+        "retrieved_context": [
+            90,
+            127,
+            128,
+            143,
+            144
+        ]
+    },
+    {
+        "example_id": "numeric-val-122",
+        "report": "reports/processed_reports/LBUY-2024-02-14_10-Q.json",
+        "retrieved_context": [
+            26,
+            27,
+            28,
+            31,
+            40
+        ]
+    },
+    {
+        "example_id": "numeric-val-123",
+        "report": "reports/processed_reports/LNBY-2024-02-05_10-Q.json",
+        "retrieved_context": [
+            4,
+            5,
+            6,
+            7,
+            16
+        ]
+    },
+    {
+        "example_id": "numeric-val-124",
+        "report": "reports/processed_reports/QNTO-2024-03-28_10-K.json",
+        "retrieved_context": [
+            7,
+            18,
+            19,
+            21,
+            138
+        ]
+    },
+    {
+        "example_id": "numeric-val-125",
+        "report": "reports/processed_reports/BCC-2024-02-20_10-K.json",
+        "retrieved_context": [
+            218,
+            219,
+            296,
+            320,
+            355
+        ]
+    },
+    {
+        "example_id": "numeric-val-126",
+        "report": "reports/processed_reports/POLA-2024-04-01_10-K.json",
+        "retrieved_context": [
+            111,
+            227,
+            301,
+            302,
+            396
+        ]
+    },
+    {
+        "example_id": "numeric-val-127",
+        "report": "reports/processed_reports/ELST-2024-04-22_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            3,
+            11,
+            19
+        ]
+    },
+    {
+        "example_id": "numeric-val-128",
+        "report": "reports/processed_reports/IRRX-2024-04-17_10-K.json",
+        "retrieved_context": [
+            31,
+            100,
+            101,
+            102,
+            114
+        ]
+    },
+    {
+        "example_id": "numeric-val-129",
+        "report": "reports/processed_reports/CRVW-2024-03-29_10-K.json",
+        "retrieved_context": [
+            134,
+            138,
+            153,
+            164,
+            247
+        ]
+    },
+    {
+        "example_id": "numeric-val-130",
+        "report": "reports/processed_reports/STQN-2024-03-26_10-K.json",
+        "retrieved_context": [
+            100,
+            110,
+            116,
+            119,
+            120
+        ]
+    },
+    {
+        "example_id": "numeric-val-131",
+        "report": "reports/processed_reports/FF-2024-03-14_10-K.json",
+        "retrieved_context": [
+            58,
+            164,
+            231,
+            325,
+            416
+        ]
+    },
+    {
+        "example_id": "numeric-val-132",
+        "report": "reports/processed_reports/BAC-PO-2024-04-30_10-Q.json",
+        "retrieved_context": [
+            11,
+            15,
+            19,
+            21,
+            120
+        ]
+    },
+    {
+        "example_id": "numeric-val-133",
+        "report": "reports/processed_reports/TGAAW-2024-04-04_10-K.json",
+        "retrieved_context": [
+            25,
+            59,
+            102,
+            104,
+            107
+        ]
+    },
+    {
+        "example_id": "numeric-val-134",
+        "report": "reports/processed_reports/LTBR-2024-03-04_10-K.json",
+        "retrieved_context": [
+            206,
+            207,
+            208,
+            209,
+            256
+        ]
+    },
+    {
+        "example_id": "numeric-val-135",
+        "report": "reports/processed_reports/ODFL-2024-02-26_10-K.json",
+        "retrieved_context": [
+            102,
+            160,
+            161,
+            162,
+            164
+        ]
+    },
+    {
+        "example_id": "numeric-val-136",
+        "report": "reports/processed_reports/ADRA-WT-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            2,
+            8,
+            9,
+            10,
+            15
+        ]
+    },
+    {
+        "example_id": "numeric-val-137",
+        "report": "reports/processed_reports/TRTN-PD-2024-02-29_10-K.json",
+        "retrieved_context": [
+            147,
+            247,
+            342,
+            363,
+            449
+        ]
+    },
+    {
+        "example_id": "numeric-val-138",
+        "report": "reports/processed_reports/FUST-2024-02-06_10-Q.json",
+        "retrieved_context": [
+            0,
+            46,
+            49,
+            72,
+            83
+        ]
+    },
+    {
+        "example_id": "numeric-val-139",
+        "report": "reports/processed_reports/ETD-2024-01-24_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            96,
+            99,
+            129
+        ]
+    },
+    {
+        "example_id": "numeric-val-140",
+        "report": "reports/processed_reports/DFH-2024-02-29_10-K.json",
+        "retrieved_context": [
+            92,
+            93,
+            217,
+            361,
+            370
+        ]
+    },
+    {
+        "example_id": "numeric-val-141",
+        "report": "reports/processed_reports/IRRX-2024-04-17_10-K.json",
+        "retrieved_context": [
+            31,
+            100,
+            102,
+            106,
+            114
+        ]
+    },
+    {
+        "example_id": "numeric-val-142",
+        "report": "reports/processed_reports/KMT-2024-02-07_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            63,
+            65,
+            95
+        ]
+    },
+    {
+        "example_id": "numeric-val-143",
+        "report": "reports/processed_reports/BRAC-2024-03-14_10-K.json",
+        "retrieved_context": [
+            69,
+            213,
+            214,
+            215,
+            216
+        ]
+    },
+    {
+        "example_id": "numeric-val-144",
+        "report": "reports/processed_reports/FLO-2024-02-21_10-K.json",
+        "retrieved_context": [
+            252,
+            260,
+            263,
+            270,
+            273
+        ]
+    },
+    {
+        "example_id": "numeric-val-145",
+        "report": "reports/processed_reports/LEA-2024-04-30_10-Q.json",
+        "retrieved_context": [
+            19,
+            91,
+            153,
+            155,
+            156
+        ]
+    },
+    {
+        "example_id": "numeric-val-146",
+        "report": "reports/processed_reports/ICD-2024-02-28_10-K.json",
+        "retrieved_context": [
+            80,
+            89,
+            90,
+            91,
+            93
+        ]
+    },
+    {
+        "example_id": "numeric-val-147",
+        "report": "reports/processed_reports/ADVWW-2024-03-01_10-K.json",
+        "retrieved_context": [
+            310,
+            312,
+            313,
+            319,
+            330
+        ]
+    },
+    {
+        "example_id": "numeric-val-148",
+        "report": "reports/processed_reports/DRFS-2024-02-12_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "example_id": "numeric-val-149",
+        "report": "reports/processed_reports/FUST-2024-02-06_10-Q.json",
+        "retrieved_context": [
+            0,
+            52,
+            75,
+            80,
+            83
+        ]
+    },
+    {
+        "example_id": "numeric-val-150",
+        "report": "reports/processed_reports/BOX-2024-03-11_10-K.json",
+        "retrieved_context": [
+            250,
+            251,
+            323,
+            329,
+            331
+        ]
+    },
+    {
+        "example_id": "numeric-val-151",
+        "report": "reports/processed_reports/MOBQW-2024-04-08_10-K.json",
+        "retrieved_context": [
+            187,
+            292,
+            298,
+            340,
+            360
+        ]
+    },
+    {
+        "example_id": "numeric-val-152",
+        "report": "reports/processed_reports/BREZR-2024-04-01_10-K.json",
+        "retrieved_context": [
+            93,
+            351,
+            353,
+            356,
+            361
+        ]
+    },
+    {
+        "example_id": "numeric-val-153",
+        "report": "reports/processed_reports/LHIL-2024-03-07_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            2,
+            20,
+            30
+        ]
+    },
+    {
+        "example_id": "numeric-val-154",
+        "report": "reports/processed_reports/MCS-2024-03-01_10-K.json",
+        "retrieved_context": [
+            119,
+            171,
+            231,
+            300,
+            412
+        ]
+    },
+    {
+        "example_id": "numeric-val-155",
+        "report": "reports/processed_reports/HLLK-2024-03-28_10-K.json",
+        "retrieved_context": [
+            55,
+            56,
+            97,
+            127,
+            136
+        ]
+    },
+    {
+        "example_id": "numeric-val-156",
+        "report": "reports/processed_reports/HURC-2024-03-08_10-Q.json",
+        "retrieved_context": [
+            2,
+            4,
+            9,
+            10,
+            11
+        ]
+    },
+    {
+        "example_id": "numeric-val-157",
+        "report": "reports/processed_reports/RYAM-2024-02-29_10-K.json",
+        "retrieved_context": [
+            128,
+            150,
+            414,
+            418,
+            419
+        ]
+    },
+    {
+        "example_id": "numeric-val-158",
+        "report": "reports/processed_reports/DKDCU-2024-04-09_10-K.json",
+        "retrieved_context": [
+            120,
+            169,
+            189,
+            214,
+            233
+        ]
+    },
+    {
+        "example_id": "numeric-val-159",
+        "report": "reports/processed_reports/USAQ-2024-03-27_10-K.json",
+        "retrieved_context": [
+            124,
+            161,
+            163,
+            164,
+            224
+        ]
+    },
+    {
+        "example_id": "numeric-val-160",
+        "report": "reports/processed_reports/PSA-PJ-2024-04-30_10-Q.json",
+        "retrieved_context": [
+            0,
+            105,
+            107,
+            205,
+            207
+        ]
+    },
+    {
+        "example_id": "numeric-val-161",
+        "report": "reports/processed_reports/HLI-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            99,
+            102,
+            118,
+            124,
+            126
+        ]
+    },
+    {
+        "example_id": "numeric-val-162",
+        "report": "reports/processed_reports/MADL-2024-03-22_10-K.json",
+        "retrieved_context": [
+            63,
+            69,
+            116,
+            118,
+            190
+        ]
+    },
+    {
+        "example_id": "numeric-val-163",
+        "report": "reports/processed_reports/ELST-2024-04-22_10-Q.json",
+        "retrieved_context": [
+            0,
+            3,
+            11,
+            19,
+            24
+        ]
+    },
+    {
+        "example_id": "numeric-val-164",
+        "report": "reports/processed_reports/MOBQW-2024-04-08_10-K.json",
+        "retrieved_context": [
+            96,
+            187,
+            188,
+            191,
+            360
+        ]
+    },
+    {
+        "example_id": "numeric-val-165",
+        "report": "reports/processed_reports/CNTX-2024-03-21_10-K.json",
+        "retrieved_context": [
+            263,
+            274,
+            275,
+            337,
+            344
+        ]
+    },
+    {
+        "example_id": "numeric-val-166",
+        "report": "reports/processed_reports/LOOP-2024-01-16_10-Q.json",
+        "retrieved_context": [
+            1,
+            76,
+            91,
+            97,
+            102
+        ]
+    },
+    {
+        "example_id": "numeric-val-167",
+        "report": "reports/processed_reports/LTBR-2024-03-04_10-K.json",
+        "retrieved_context": [
+            178,
+            207,
+            208,
+            240,
+            273
+        ]
+    },
+    {
+        "example_id": "numeric-val-168",
+        "report": "reports/processed_reports/CRVW-2024-03-29_10-K.json",
+        "retrieved_context": [
+            187,
+            193,
+            227,
+            239,
+            247
+        ]
+    },
+    {
+        "example_id": "numeric-val-169",
+        "report": "reports/processed_reports/SOHOO-2024-03-22_10-K.json",
+        "retrieved_context": [
+            189,
+            213,
+            327,
+            348,
+            352
+        ]
+    },
+    {
+        "example_id": "numeric-val-170",
+        "report": "reports/processed_reports/DFH-2024-02-29_10-K.json",
+        "retrieved_context": [
+            192,
+            217,
+            291,
+            292,
+            370
+        ]
+    },
+    {
+        "example_id": "numeric-val-171",
+        "report": "reports/processed_reports/CSUI-2024-01-12_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            2,
+            3,
+            24
+        ]
+    },
+    {
+        "example_id": "numeric-val-172",
+        "report": "reports/processed_reports/RYAM-2024-02-29_10-K.json",
+        "retrieved_context": [
+            16,
+            24,
+            54,
+            141,
+            414
+        ]
+    },
+    {
+        "example_id": "numeric-val-173",
+        "report": "reports/processed_reports/ELST-2024-04-22_10-Q.json",
+        "retrieved_context": [
+            0,
+            3,
+            11,
+            19,
+            24
+        ]
+    },
+    {
+        "example_id": "numeric-val-174",
+        "report": "reports/processed_reports/LOOP-2024-01-16_10-Q.json",
+        "retrieved_context": [
+            1,
+            6,
+            35,
+            120,
+            125
+        ]
+    },
+    {
+        "example_id": "numeric-val-175",
+        "report": "reports/processed_reports/HNI-2024-02-27_10-K.json",
+        "retrieved_context": [
+            102,
+            106,
+            118,
+            119,
+            360
+        ]
+    },
+    {
+        "example_id": "numeric-val-176",
+        "report": "reports/processed_reports/STSSW-2024-03-29_10-K.json",
+        "retrieved_context": [
+            30,
+            113,
+            116,
+            140,
+            202
+        ]
+    },
+    {
+        "example_id": "numeric-val-177",
+        "report": "reports/processed_reports/RYAM-2024-02-29_10-K.json",
+        "retrieved_context": [
+            28,
+            190,
+            247,
+            306,
+            340
+        ]
+    },
+    {
+        "example_id": "numeric-val-178",
+        "report": "reports/processed_reports/WEAV-2024-03-13_10-K.json",
+        "retrieved_context": [
+            247,
+            248,
+            327,
+            379,
+            422
+        ]
+    },
+    {
+        "example_id": "numeric-val-179",
+        "report": "reports/processed_reports/ELST-2024-04-22_10-Q.json",
+        "retrieved_context": [
+            0,
+            3,
+            11,
+            19,
+            24
+        ]
+    },
+    {
+        "example_id": "numeric-val-180",
+        "report": "reports/processed_reports/SOHOO-2024-03-22_10-K.json",
+        "retrieved_context": [
+            189,
+            213,
+            251,
+            327,
+            352
+        ]
+    },
+    {
+        "example_id": "numeric-val-181",
+        "report": "reports/processed_reports/AMAOW-2024-04-16_10-K.json",
+        "retrieved_context": [
+            37,
+            105,
+            122,
+            173,
+            184
+        ]
+    },
+    {
+        "example_id": "numeric-val-182",
+        "report": "reports/processed_reports/AMAOW-2024-04-16_10-K.json",
+        "retrieved_context": [
+            37,
+            39,
+            74,
+            122,
+            128
+        ]
+    },
+    {
+        "example_id": "numeric-val-183",
+        "report": "reports/processed_reports/UPTDW-2024-02-14_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            2,
+            70,
+            77
+        ]
+    },
+    {
+        "example_id": "numeric-val-184",
+        "report": "reports/processed_reports/VWEWW-2024-03-12_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            5,
+            10,
+            58
+        ]
+    },
+    {
+        "example_id": "numeric-val-185",
+        "report": "reports/processed_reports/ADRA-WT-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            2,
+            8,
+            9,
+            10,
+            33
+        ]
+    },
+    {
+        "example_id": "numeric-val-186",
+        "report": "reports/processed_reports/DFH-2024-02-29_10-K.json",
+        "retrieved_context": [
+            200,
+            207,
+            217,
+            292,
+            293
+        ]
+    },
+    {
+        "example_id": "numeric-val-187",
+        "report": "reports/processed_reports/RICK-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            64,
+            71,
+            75,
+            76,
+            104
+        ]
+    },
+    {
+        "example_id": "numeric-val-188",
+        "report": "reports/processed_reports/IDT-2024-03-11_10-Q.json",
+        "retrieved_context": [
+            5,
+            21,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "example_id": "numeric-val-189",
+        "report": "reports/processed_reports/BPTH-2024-03-07_10-K.json",
+        "retrieved_context": [
+            61,
+            108,
+            110,
+            113,
+            114
+        ]
+    },
+    {
+        "example_id": "numeric-val-190",
+        "report": "reports/processed_reports/FUST-2024-02-06_10-Q.json",
+        "retrieved_context": [
+            0,
+            50,
+            52,
+            56,
+            75
+        ]
+    },
+    {
+        "example_id": "numeric-val-191",
+        "report": "reports/processed_reports/INLX-2024-03-28_10-K.json",
+        "retrieved_context": [
+            183,
+            185,
+            236,
+            289,
+            291
+        ]
+    },
+    {
+        "example_id": "numeric-val-192",
+        "report": "reports/processed_reports/ALKT-2024-02-29_10-K.json",
+        "retrieved_context": [
+            301,
+            373,
+            393,
+            407,
+            441
+        ]
+    },
+    {
+        "example_id": "numeric-val-193",
+        "report": "reports/processed_reports/FLO-2024-02-21_10-K.json",
+        "retrieved_context": [
+            260,
+            262,
+            263,
+            270,
+            273
+        ]
+    },
+    {
+        "example_id": "numeric-val-194",
+        "report": "reports/processed_reports/CMCO-2024-01-31_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            51,
+            142,
+            161
+        ]
+    },
+    {
+        "example_id": "numeric-val-195",
+        "report": "reports/processed_reports/IRRX-2024-04-17_10-K.json",
+        "retrieved_context": [
+            31,
+            100,
+            101,
+            102,
+            114
+        ]
+    },
+    {
+        "example_id": "numeric-val-196",
+        "report": "reports/processed_reports/WFC-PQ-2024-02-20_10-K.json",
+        "retrieved_context": [
+            5,
+            21,
+            22,
+            25,
+            38
+        ]
+    },
+    {
+        "example_id": "numeric-val-197",
+        "report": "reports/processed_reports/CRDF-2024-02-29_10-K.json",
+        "retrieved_context": [
+            9,
+            11,
+            17,
+            91,
+            215
+        ]
+    },
+    {
+        "example_id": "numeric-val-198",
+        "report": "reports/processed_reports/LCW-2024-04-04_10-K.json",
+        "retrieved_context": [
+            62,
+            108,
+            129,
+            132,
+            142
+        ]
+    },
+    {
+        "example_id": "numeric-val-199",
+        "report": "reports/processed_reports/UPTDW-2024-02-14_10-Q.json",
+        "retrieved_context": [
+            1,
+            3,
+            101,
+            142,
+            143
+        ]
+    },
+    {
+        "example_id": "numeric-val-200",
+        "report": "reports/processed_reports/HNI-2024-02-27_10-K.json",
+        "retrieved_context": [
+            104,
+            252,
+            311,
+            325,
+            352
+        ]
+    },
+    {
+        "example_id": "numeric-val-201",
+        "report": "reports/processed_reports/HNI-2024-02-27_10-K.json",
+        "retrieved_context": [
+            112,
+            206,
+            271,
+            297,
+            343
+        ]
+    },
+    {
+        "example_id": "numeric-val-202",
+        "report": "reports/processed_reports/BOX-2024-03-11_10-K.json",
+        "retrieved_context": [
+            250,
+            251,
+            258,
+            323,
+            329
+        ]
+    },
+    {
+        "example_id": "numeric-val-203",
+        "report": "reports/processed_reports/MGLD-2024-02-14_10-Q.json",
+        "retrieved_context": [
+            4,
+            12,
+            13,
+            22,
+            74
+        ]
+    },
+    {
+        "example_id": "numeric-val-204",
+        "report": "reports/processed_reports/ADVWW-2024-03-01_10-K.json",
+        "retrieved_context": [
+            310,
+            311,
+            313,
+            315,
+            319
+        ]
+    },
+    {
+        "example_id": "numeric-val-205",
+        "report": "reports/processed_reports/PLDGP-2024-04-25_10-Q.json",
+        "retrieved_context": [
+            4,
+            9,
+            14,
+            21,
+            147
+        ]
+    },
+    {
+        "example_id": "numeric-val-206",
+        "report": "reports/processed_reports/DFH-2024-02-29_10-K.json",
+        "retrieved_context": [
+            292,
+            293,
+            361,
+            368,
+            370
+        ]
+    },
+    {
+        "example_id": "numeric-val-207",
+        "report": "reports/processed_reports/USPH-2024-02-29_10-K.json",
+        "retrieved_context": [
+            16,
+            214,
+            216,
+            226,
+            231
+        ]
+    },
+    {
+        "example_id": "numeric-val-208",
+        "report": "reports/processed_reports/LTBR-2024-03-04_10-K.json",
+        "retrieved_context": [
+            177,
+            178,
+            237,
+            256,
+            273
+        ]
+    },
+    {
+        "example_id": "numeric-val-209",
+        "report": "reports/processed_reports/PLDGP-2024-04-25_10-Q.json",
+        "retrieved_context": [
+            15,
+            74,
+            138,
+            140,
+            141
+        ]
+    },
+    {
+        "example_id": "numeric-val-210",
+        "report": "reports/processed_reports/LNBY-2024-02-05_10-Q.json",
+        "retrieved_context": [
+            1,
+            5,
+            6,
+            30,
+            31
+        ]
+    },
+    {
+        "example_id": "numeric-val-211",
+        "report": "reports/processed_reports/ALV-2024-04-26_10-Q.json",
+        "retrieved_context": [
+            0,
+            2,
+            36,
+            55,
+            59
+        ]
+    },
+    {
+        "example_id": "numeric-val-212",
+        "report": "reports/processed_reports/MADL-2024-03-22_10-K.json",
+        "retrieved_context": [
+            63,
+            98,
+            132,
+            178,
+            191
+        ]
+    },
+    {
+        "example_id": "numeric-val-213",
+        "report": "reports/processed_reports/LNBY-2024-02-05_10-Q.json",
+        "retrieved_context": [
+            1,
+            2,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "example_id": "numeric-val-214",
+        "report": "reports/processed_reports/HLLK-2024-03-28_10-K.json",
+        "retrieved_context": [
+            55,
+            56,
+            79,
+            80,
+            140
+        ]
+    },
+    {
+        "example_id": "numeric-val-215",
+        "report": "reports/processed_reports/ADRA-WT-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            1,
+            2,
+            3,
+            9,
+            10
+        ]
+    },
+    {
+        "example_id": "numeric-val-216",
+        "report": "reports/processed_reports/XSPA-2024-04-16_10-K.json",
+        "retrieved_context": [
+            63,
+            64,
+            93,
+            97,
+            98
+        ]
+    },
+    {
+        "example_id": "numeric-val-217",
+        "report": "reports/processed_reports/HBIO-2024-03-07_10-K.json",
+        "retrieved_context": [
+            128,
+            129,
+            130,
+            131,
+            188
+        ]
+    },
+    {
+        "example_id": "numeric-val-218",
+        "report": "reports/processed_reports/CDAQ-2024-04-01_10-K.json",
+        "retrieved_context": [
+            122,
+            190,
+            236,
+            304,
+            320
+        ]
+    },
+    {
+        "example_id": "numeric-val-219",
+        "report": "reports/processed_reports/NOTE-2024-03-15_10-K.json",
+        "retrieved_context": [
+            222,
+            224,
+            271,
+            328,
+            332
+        ]
+    },
+    {
+        "example_id": "numeric-val-220",
+        "report": "reports/processed_reports/SSNC-2024-02-28_10-K.json",
+        "retrieved_context": [
+            194,
+            289,
+            300,
+            305,
+            306
+        ]
+    },
+    {
+        "example_id": "numeric-val-221",
+        "report": "reports/processed_reports/XSPA-2024-04-16_10-K.json",
+        "retrieved_context": [
+            46,
+            63,
+            64,
+            81,
+            99
+        ]
+    },
+    {
+        "example_id": "numeric-val-222",
+        "report": "reports/processed_reports/MOBQW-2024-04-08_10-K.json",
+        "retrieved_context": [
+            187,
+            188,
+            189,
+            191,
+            401
+        ]
+    },
+    {
+        "example_id": "numeric-val-223",
+        "report": "reports/processed_reports/HNI-2024-02-27_10-K.json",
+        "retrieved_context": [
+            103,
+            110,
+            111,
+            251,
+            320
+        ]
+    },
+    {
+        "example_id": "numeric-val-224",
+        "report": "reports/processed_reports/IRRX-2024-04-17_10-K.json",
+        "retrieved_context": [
+            100,
+            101,
+            102,
+            107,
+            114
+        ]
+    },
+    {
+        "example_id": "numeric-val-225",
+        "report": "reports/processed_reports/SCI-2024-02-13_10-K.json",
+        "retrieved_context": [
+            105,
+            195,
+            211,
+            280,
+            298
+        ]
+    },
+    {
+        "example_id": "numeric-val-226",
+        "report": "reports/processed_reports/CDAQ-2024-04-01_10-K.json",
+        "retrieved_context": [
+            30,
+            190,
+            238,
+            304,
+            320
+        ]
+    },
+    {
+        "example_id": "numeric-val-227",
+        "report": "reports/processed_reports/VWEWW-2024-03-12_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            9,
+            15,
+            58
+        ]
+    },
+    {
+        "example_id": "numeric-val-228",
+        "report": "reports/processed_reports/XSPA-2024-04-16_10-K.json",
+        "retrieved_context": [
+            44,
+            64,
+            81,
+            90,
+            98
+        ]
+    },
+    {
+        "example_id": "numeric-val-229",
+        "report": "reports/processed_reports/KRNLW-2024-03-12_10-K.json",
+        "retrieved_context": [
+            32,
+            33,
+            133,
+            163,
+            199
+        ]
+    },
+    {
+        "example_id": "numeric-val-230",
+        "report": "reports/processed_reports/UPTDW-2024-02-14_10-Q.json",
+        "retrieved_context": [
+            0,
+            2,
+            77,
+            78,
+            80
+        ]
+    },
+    {
+        "example_id": "numeric-val-231",
+        "report": "reports/processed_reports/SSNC-2024-02-28_10-K.json",
+        "retrieved_context": [
+            184,
+            289,
+            291,
+            300,
+            306
+        ]
+    },
+    {
+        "example_id": "numeric-val-232",
+        "report": "reports/processed_reports/VEEV-2024-03-25_10-K.json",
+        "retrieved_context": [
+            208,
+            267,
+            268,
+            367,
+            385
+        ]
+    },
+    {
+        "example_id": "numeric-val-233",
+        "report": "reports/processed_reports/ALPAU-2024-04-01_10-K.json",
+        "retrieved_context": [
+            220,
+            224,
+            230,
+            232,
+            233
+        ]
+    },
+    {
+        "example_id": "numeric-val-234",
+        "report": "reports/processed_reports/ICD-2024-02-28_10-K.json",
+        "retrieved_context": [
+            79,
+            80,
+            89,
+            90,
+            91
+        ]
+    },
+    {
+        "example_id": "numeric-val-235",
+        "report": "reports/processed_reports/BURL-2024-03-15_10-K.json",
+        "retrieved_context": [
+            174,
+            256,
+            261,
+            264,
+            267
+        ]
+    },
+    {
+        "example_id": "numeric-val-236",
+        "report": "reports/processed_reports/LHIL-2024-03-07_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            2,
+            10,
+            30
+        ]
+    },
+    {
+        "example_id": "numeric-val-237",
+        "report": "reports/processed_reports/SOHOO-2024-03-22_10-K.json",
+        "retrieved_context": [
+            189,
+            213,
+            325,
+            327,
+            352
+        ]
+    },
+    {
+        "example_id": "numeric-val-238",
+        "report": "reports/processed_reports/VPLM-2024-02-14_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            3,
+            37,
+            50
+        ]
+    },
+    {
+        "example_id": "numeric-val-239",
+        "report": "reports/processed_reports/PMD-2024-03-28_10-K.json",
+        "retrieved_context": [
+            65,
+            67,
+            70,
+            71,
+            91
+        ]
+    },
+    {
+        "example_id": "numeric-val-240",
+        "report": "reports/processed_reports/ALV-2024-04-26_10-Q.json",
+        "retrieved_context": [
+            0,
+            2,
+            6,
+            36,
+            55
+        ]
+    },
+    {
+        "example_id": "numeric-val-241",
+        "report": "reports/processed_reports/FCFS-2024-04-29_10-Q.json",
+        "retrieved_context": [
+            32,
+            33,
+            34,
+            40,
+            62
+        ]
+    },
+    {
+        "example_id": "numeric-val-242",
+        "report": "reports/processed_reports/MITI-2024-02-13_10-Q.json",
+        "retrieved_context": [
+            1,
+            2,
+            24,
+            56,
+            262
+        ]
+    },
+    {
+        "example_id": "numeric-val-243",
+        "report": "reports/processed_reports/TRTN-PD-2024-02-29_10-K.json",
+        "retrieved_context": [
+            123,
+            342,
+            363,
+            435,
+            454
+        ]
+    },
+    {
+        "example_id": "numeric-val-244",
+        "report": "reports/processed_reports/LMAT-2024-02-29_10-K.json",
+        "retrieved_context": [
+            6,
+            165,
+            333,
+            383,
+            392
+        ]
+    },
+    {
+        "example_id": "numeric-val-245",
+        "report": "reports/processed_reports/AMAOW-2024-04-16_10-K.json",
+        "retrieved_context": [
+            37,
+            38,
+            39,
+            122,
+            132
+        ]
+    },
+    {
+        "example_id": "numeric-val-246",
+        "report": "reports/processed_reports/IMAQU-2024-02-23_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            2,
+            69,
+            154
+        ]
+    },
+    {
+        "example_id": "numeric-val-247",
+        "report": "reports/processed_reports/ADRA-WT-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            2,
+            3,
+            6,
+            9,
+            10
+        ]
+    },
+    {
+        "example_id": "numeric-val-248",
+        "report": "reports/processed_reports/HAE-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            0,
+            26,
+            46,
+            99,
+            112
+        ]
+    },
+    {
+        "example_id": "numeric-val-249",
+        "report": "reports/processed_reports/LTBR-2024-03-04_10-K.json",
+        "retrieved_context": [
+            157,
+            159,
+            167,
+            256,
+            260
+        ]
+    },
+    {
+        "example_id": "knowledge-val-0",
+        "report": "reports/processed_reports/LOOP-2024-01-16_10-Q.json",
+        "retrieved_context": [
+            1,
+            2,
+            120,
+            131,
+            132
+        ]
+    },
+    {
+        "example_id": "knowledge-val-1",
+        "report": "reports/processed_reports/IDT-2024-03-11_10-Q.json",
+        "retrieved_context": [
+            5,
+            23,
+            24,
+            25,
+            112
+        ]
+    },
+    {
+        "example_id": "knowledge-val-2",
+        "report": "reports/processed_reports/FL-2024-03-28_10-K.json",
+        "retrieved_context": [
+            92,
+            95,
+            100,
+            189,
+            206
+        ]
+    },
+    {
+        "example_id": "knowledge-val-3",
+        "report": "reports/processed_reports/BARK-2024-02-07_10-Q.json",
+        "retrieved_context": [
+            0,
+            29,
+            168,
+            184,
+            213
+        ]
+    },
+    {
+        "example_id": "knowledge-val-4",
+        "report": "reports/processed_reports/SMAPU-2024-03-29_10-K.json",
+        "retrieved_context": [
+            27,
+            28,
+            40,
+            46,
+            62
+        ]
+    },
+    {
+        "example_id": "knowledge-val-5",
+        "report": "reports/processed_reports/AGX-2024-04-11_10-K.json",
+        "retrieved_context": [
+            37,
+            87,
+            98,
+            100,
+            104
+        ]
+    },
+    {
+        "example_id": "knowledge-val-6",
+        "report": "reports/processed_reports/AGX-2024-04-11_10-K.json",
+        "retrieved_context": [
+            98,
+            100,
+            104,
+            111,
+            112
+        ]
+    },
+    {
+        "example_id": "knowledge-val-7",
+        "report": "reports/processed_reports/CASS-2024-02-28_10-K.json",
+        "retrieved_context": [
+            138,
+            141,
+            152,
+            170,
+            354
+        ]
+    },
+    {
+        "example_id": "knowledge-val-8",
+        "report": "reports/processed_reports/BABB-2024-02-26_10-K.json",
+        "retrieved_context": [
+            25,
+            85,
+            164,
+            172,
+            178
+        ]
+    },
+    {
+        "example_id": "knowledge-val-9",
+        "report": "reports/processed_reports/GCBC-2024-02-09_10-Q.json",
+        "retrieved_context": [
+            63,
+            81,
+            92,
+            93,
+            99
+        ]
+    },
+    {
+        "example_id": "knowledge-val-10",
+        "report": "reports/processed_reports/FLWS-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            2,
+            21,
+            110
+        ]
+    },
+    {
+        "example_id": "knowledge-val-11",
+        "report": "reports/processed_reports/VRSSF-2024-04-01_10-K.json",
+        "retrieved_context": [
+            28,
+            212,
+            236,
+            311,
+            332
+        ]
+    },
+    {
+        "example_id": "knowledge-val-12",
+        "report": "reports/processed_reports/HY-2024-02-27_10-K.json",
+        "retrieved_context": [
+            184,
+            206,
+            207,
+            208,
+            211
+        ]
+    },
+    {
+        "example_id": "knowledge-val-13",
+        "report": "reports/processed_reports/AOXY-2024-01-24_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            2,
+            3,
+            54
+        ]
+    },
+    {
+        "example_id": "knowledge-val-14",
+        "report": "reports/processed_reports/HTZ-2024-04-25_10-Q.json",
+        "retrieved_context": [
+            3,
+            7,
+            9,
+            91,
+            119
+        ]
+    },
+    {
+        "example_id": "knowledge-val-15",
+        "report": "reports/processed_reports/MMTLP-2024-03-28_10-K.json",
+        "retrieved_context": [
+            235,
+            327,
+            330,
+            335,
+            345
+        ]
+    },
+    {
+        "example_id": "knowledge-val-16",
+        "report": "reports/processed_reports/MMTLP-2024-03-28_10-K.json",
+        "retrieved_context": [
+            154,
+            325,
+            334,
+            345,
+            365
+        ]
+    },
+    {
+        "example_id": "knowledge-val-17",
+        "report": "reports/processed_reports/ARRT-2024-02-20_10-Q.json",
+        "retrieved_context": [
+            0,
+            2,
+            6,
+            21,
+            49
+        ]
+    },
+    {
+        "example_id": "knowledge-val-18",
+        "report": "reports/processed_reports/GBOX-2024-03-26_10-K.json",
+        "retrieved_context": [
+            108,
+            121,
+            271,
+            304,
+            305
+        ]
+    },
+    {
+        "example_id": "knowledge-val-19",
+        "report": "reports/processed_reports/CDZI-2024-03-28_10-K.json",
+        "retrieved_context": [
+            134,
+            135,
+            137,
+            182,
+            185
+        ]
+    },
+    {
+        "example_id": "knowledge-val-20",
+        "report": "reports/processed_reports/CNGLW-2024-04-16_10-K.json",
+        "retrieved_context": [
+            190,
+            217,
+            218,
+            219,
+            220
+        ]
+    },
+    {
+        "example_id": "knowledge-val-21",
+        "report": "reports/processed_reports/DAN-2024-02-20_10-K.json",
+        "retrieved_context": [
+            147,
+            190,
+            277,
+            300,
+            302
+        ]
+    },
+    {
+        "example_id": "knowledge-val-22",
+        "report": "reports/processed_reports/CPSH-2024-03-14_10-K.json",
+        "retrieved_context": [
+            106,
+            131,
+            136,
+            152,
+            156
+        ]
+    },
+    {
+        "example_id": "knowledge-val-23",
+        "report": "reports/processed_reports/ARR-2024-04-25_10-Q.json",
+        "retrieved_context": [
+            0,
+            2,
+            148,
+            149,
+            152
+        ]
+    },
+    {
+        "example_id": "knowledge-val-24",
+        "report": "reports/processed_reports/RSKIA-2024-03-15_10-Q.json",
+        "retrieved_context": [
+            2,
+            3,
+            4,
+            8,
+            10
+        ]
+    },
+    {
+        "example_id": "knowledge-val-25",
+        "report": "reports/processed_reports/LTRPA-2024-02-16_10-K.json",
+        "retrieved_context": [
+            49,
+            53,
+            58,
+            62,
+            71
+        ]
+    },
+    {
+        "example_id": "knowledge-val-26",
+        "report": "reports/processed_reports/FGLD-2024-02-12_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            6,
+            11,
+            29
+        ]
+    },
+    {
+        "example_id": "knowledge-val-27",
+        "report": "reports/processed_reports/IDT-2024-03-11_10-Q.json",
+        "retrieved_context": [
+            0,
+            5,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "example_id": "knowledge-val-28",
+        "report": "reports/processed_reports/FF-2024-03-14_10-K.json",
+        "retrieved_context": [
+            231,
+            325,
+            331,
+            338,
+            416
+        ]
+    },
+    {
+        "example_id": "knowledge-val-29",
+        "report": "reports/processed_reports/BPTH-2024-03-07_10-K.json",
+        "retrieved_context": [
+            61,
+            79,
+            83,
+            105,
+            113
+        ]
+    },
+    {
+        "example_id": "knowledge-val-30",
+        "report": "reports/processed_reports/HTZ-2024-04-25_10-Q.json",
+        "retrieved_context": [
+            7,
+            9,
+            40,
+            119,
+            172
+        ]
+    },
+    {
+        "example_id": "knowledge-val-31",
+        "report": "reports/processed_reports/WAVS-2024-04-26_10-K.json",
+        "retrieved_context": [
+            43,
+            98,
+            103,
+            111,
+            118
+        ]
+    },
+    {
+        "example_id": "knowledge-val-32",
+        "report": "reports/processed_reports/NLIT-2024-04-01_10-K.json",
+        "retrieved_context": [
+            139,
+            315,
+            387,
+            393,
+            394
+        ]
+    },
+    {
+        "example_id": "knowledge-val-33",
+        "report": "reports/processed_reports/RSKIA-2024-03-15_10-Q.json",
+        "retrieved_context": [
+            2,
+            3,
+            4,
+            8,
+            10
+        ]
+    },
+    {
+        "example_id": "knowledge-val-34",
+        "report": "reports/processed_reports/NL-2024-03-06_10-K.json",
+        "retrieved_context": [
+            10,
+            15,
+            23,
+            98,
+            105
+        ]
+    },
+    {
+        "example_id": "knowledge-val-35",
+        "report": "reports/processed_reports/MBBC-2024-02-14_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            5,
+            19,
+            53
+        ]
+    },
+    {
+        "example_id": "knowledge-val-36",
+        "report": "reports/processed_reports/FCN-2024-02-22_10-K.json",
+        "retrieved_context": [
+            185,
+            191,
+            196,
+            318,
+            342
+        ]
+    },
+    {
+        "example_id": "knowledge-val-37",
+        "report": "reports/processed_reports/MHO-2024-04-26_10-Q.json",
+        "retrieved_context": [
+            34,
+            76,
+            77,
+            118,
+            122
+        ]
+    },
+    {
+        "example_id": "knowledge-val-38",
+        "report": "reports/processed_reports/HLI-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            2,
+            4,
+            80
+        ]
+    },
+    {
+        "example_id": "knowledge-val-39",
+        "report": "reports/processed_reports/MCCX-2024-04-15_10-K.json",
+        "retrieved_context": [
+            77,
+            124,
+            132,
+            133,
+            137
+        ]
+    },
+    {
+        "example_id": "knowledge-val-40",
+        "report": "reports/processed_reports/BGXX-2024-04-16_10-K.json",
+        "retrieved_context": [
+            149,
+            210,
+            257,
+            339,
+            364
+        ]
+    },
+    {
+        "example_id": "knowledge-val-41",
+        "report": "reports/processed_reports/HNI-2024-02-27_10-K.json",
+        "retrieved_context": [
+            60,
+            68,
+            104,
+            194,
+            252
+        ]
+    },
+    {
+        "example_id": "knowledge-val-42",
+        "report": "reports/processed_reports/NLITW-2024-04-01_10-K.json",
+        "retrieved_context": [
+            315,
+            393,
+            394,
+            397,
+            399
+        ]
+    },
+    {
+        "example_id": "knowledge-val-43",
+        "report": "reports/processed_reports/REBN-2024-03-28_10-K.json",
+        "retrieved_context": [
+            35,
+            51,
+            247,
+            250,
+            323
+        ]
+    },
+    {
+        "example_id": "knowledge-val-44",
+        "report": "reports/processed_reports/HHGCW-2024-04-01_10-K.json",
+        "retrieved_context": [
+            42,
+            178,
+            179,
+            180,
+            248
+        ]
+    },
+    {
+        "example_id": "knowledge-val-45",
+        "report": "reports/processed_reports/MTEX-2024-03-28_10-K.json",
+        "retrieved_context": [
+            37,
+            144,
+            256,
+            345,
+            431
+        ]
+    },
+    {
+        "example_id": "knowledge-val-46",
+        "report": "reports/processed_reports/ICD-2024-02-28_10-K.json",
+        "retrieved_context": [
+            12,
+            19,
+            69,
+            80,
+            94
+        ]
+    },
+    {
+        "example_id": "knowledge-val-47",
+        "report": "reports/processed_reports/CREX-2024-03-21_10-K.json",
+        "retrieved_context": [
+            136,
+            138,
+            202,
+            243,
+            250
+        ]
+    },
+    {
+        "example_id": "knowledge-val-48",
+        "report": "reports/processed_reports/NCSM-2024-03-08_10-K.json",
+        "retrieved_context": [
+            23,
+            60,
+            77,
+            81,
+            87
+        ]
+    },
+    {
+        "example_id": "knowledge-val-49",
+        "report": "reports/processed_reports/PMD-2024-03-28_10-K.json",
+        "retrieved_context": [
+            91,
+            92,
+            93,
+            94,
+            133
+        ]
+    },
+    {
+        "example_id": "knowledge-val-50",
+        "report": "reports/processed_reports/HFUS-2024-03-14_10-Q.json",
+        "retrieved_context": [
+            0,
+            3,
+            4,
+            5,
+            25
+        ]
+    },
+    {
+        "example_id": "knowledge-val-51",
+        "report": "reports/processed_reports/IRDM-2024-04-18_10-Q.json",
+        "retrieved_context": [
+            0,
+            21,
+            32,
+            105,
+            121
+        ]
+    },
+    {
+        "example_id": "knowledge-val-52",
+        "report": "reports/processed_reports/GNLN-2024-01-09_10-Q.json",
+        "retrieved_context": [
+            0,
+            5,
+            59,
+            71,
+            147
+        ]
+    },
+    {
+        "example_id": "knowledge-val-53",
+        "report": "reports/processed_reports/NLIT-2024-04-01_10-K.json",
+        "retrieved_context": [
+            139,
+            201,
+            315,
+            393,
+            394
+        ]
+    },
+    {
+        "example_id": "knowledge-val-54",
+        "report": "reports/processed_reports/AYI-2024-01-09_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            15,
+            89,
+            97
+        ]
+    },
+    {
+        "example_id": "knowledge-val-55",
+        "report": "reports/processed_reports/SDSYA-2024-03-22_10-K.json",
+        "retrieved_context": [
+            59,
+            72,
+            146,
+            148,
+            160
+        ]
+    },
+    {
+        "example_id": "knowledge-val-56",
+        "report": "reports/processed_reports/NDRA-2024-03-28_10-K.json",
+        "retrieved_context": [
+            82,
+            104,
+            106,
+            165,
+            217
+        ]
+    },
+    {
+        "example_id": "knowledge-val-57",
+        "report": "reports/processed_reports/CASS-2024-02-28_10-K.json",
+        "retrieved_context": [
+            145,
+            152,
+            170,
+            338,
+            354
+        ]
+    },
+    {
+        "example_id": "knowledge-val-58",
+        "report": "reports/processed_reports/FL-2024-03-28_10-K.json",
+        "retrieved_context": [
+            92,
+            251,
+            268,
+            343,
+            375
+        ]
+    },
+    {
+        "example_id": "knowledge-val-59",
+        "report": "reports/processed_reports/ARR-2024-04-25_10-Q.json",
+        "retrieved_context": [
+            2,
+            53,
+            56,
+            64,
+            140
+        ]
+    },
+    {
+        "example_id": "knowledge-val-60",
+        "report": "reports/processed_reports/APOG-2024-01-03_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            26,
+            35,
+            67
+        ]
+    },
+    {
+        "example_id": "knowledge-val-61",
+        "report": "reports/processed_reports/BARK-2024-02-07_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            4,
+            29,
+            84
+        ]
+    },
+    {
+        "example_id": "knowledge-val-62",
+        "report": "reports/processed_reports/FREEW-2024-03-12_10-K.json",
+        "retrieved_context": [
+            20,
+            34,
+            45,
+            63,
+            77
+        ]
+    },
+    {
+        "example_id": "knowledge-val-63",
+        "report": "reports/processed_reports/HQY-2024-03-22_10-K.json",
+        "retrieved_context": [
+            180,
+            187,
+            277,
+            293,
+            294
+        ]
+    },
+    {
+        "example_id": "knowledge-val-64",
+        "report": "reports/processed_reports/SIGY-2024-02-20_10-K.json",
+        "retrieved_context": [
+            43,
+            49,
+            59,
+            230,
+            262
+        ]
+    },
+    {
+        "example_id": "knowledge-val-65",
+        "report": "reports/processed_reports/BODY-WT-2024-03-11_10-K.json",
+        "retrieved_context": [
+            2,
+            10,
+            16,
+            20,
+            75
+        ]
+    },
+    {
+        "example_id": "knowledge-val-66",
+        "report": "reports/processed_reports/COO-2024-03-01_10-Q.json",
+        "retrieved_context": [
+            0,
+            33,
+            62,
+            67,
+            69
+        ]
+    },
+    {
+        "example_id": "knowledge-val-67",
+        "report": "reports/processed_reports/ALCC-2024-03-29_10-K.json",
+        "retrieved_context": [
+            95,
+            96,
+            97,
+            104,
+            110
+        ]
+    },
+    {
+        "example_id": "knowledge-val-68",
+        "report": "reports/processed_reports/MMTLP-2024-03-28_10-K.json",
+        "retrieved_context": [
+            235,
+            315,
+            316,
+            325,
+            345
+        ]
+    },
+    {
+        "example_id": "knowledge-val-69",
+        "report": "reports/processed_reports/STAL-2024-02-14_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            2,
+            4,
+            6
+        ]
+    },
+    {
+        "example_id": "knowledge-val-70",
+        "report": "reports/processed_reports/AGX-2024-04-11_10-K.json",
+        "retrieved_context": [
+            37,
+            86,
+            98,
+            104,
+            105
+        ]
+    },
+    {
+        "example_id": "knowledge-val-71",
+        "report": "reports/processed_reports/SIGY-2024-02-20_10-K.json",
+        "retrieved_context": [
+            16,
+            21,
+            58,
+            163,
+            262
+        ]
+    },
+    {
+        "example_id": "knowledge-val-72",
+        "report": "reports/processed_reports/GOOG-2024-04-26_10-Q.json",
+        "retrieved_context": [
+            0,
+            17,
+            18,
+            119,
+            202
+        ]
+    },
+    {
+        "example_id": "knowledge-val-73",
+        "report": "reports/processed_reports/BTBDW-2024-04-01_10-K.json",
+        "retrieved_context": [
+            174,
+            189,
+            246,
+            287,
+            306
+        ]
+    },
+    {
+        "example_id": "knowledge-val-74",
+        "report": "reports/processed_reports/SOHOO-2024-03-22_10-K.json",
+        "retrieved_context": [
+            213,
+            258,
+            284,
+            325,
+            327
+        ]
+    },
+    {
+        "example_id": "knowledge-val-75",
+        "report": "reports/processed_reports/ACBAW-2024-03-27_10-K.json",
+        "retrieved_context": [
+            24,
+            25,
+            26,
+            66,
+            141
+        ]
+    },
+    {
+        "example_id": "knowledge-val-76",
+        "report": "reports/processed_reports/ICD-2024-02-28_10-K.json",
+        "retrieved_context": [
+            27,
+            71,
+            89,
+            102,
+            104
+        ]
+    },
+    {
+        "example_id": "knowledge-val-77",
+        "report": "reports/processed_reports/AOXY-2024-01-24_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            2,
+            3,
+            54
+        ]
+    },
+    {
+        "example_id": "knowledge-val-78",
+        "report": "reports/processed_reports/RCFA-WT-2024-04-23_10-K.json",
+        "retrieved_context": [
+            276,
+            277,
+            278,
+            280,
+            382
+        ]
+    },
+    {
+        "example_id": "knowledge-val-79",
+        "report": "reports/processed_reports/AESE-2024-03-28_10-K.json",
+        "retrieved_context": [
+            37,
+            52,
+            77,
+            172,
+            175
+        ]
+    },
+    {
+        "example_id": "knowledge-val-80",
+        "report": "reports/processed_reports/CRSR-2024-02-27_10-K.json",
+        "retrieved_context": [
+            79,
+            219,
+            331,
+            332,
+            333
+        ]
+    },
+    {
+        "example_id": "knowledge-val-81",
+        "report": "reports/processed_reports/ARRT-2024-02-20_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            2,
+            3,
+            49
+        ]
+    },
+    {
+        "example_id": "knowledge-val-82",
+        "report": "reports/processed_reports/SOHOO-2024-03-22_10-K.json",
+        "retrieved_context": [
+            205,
+            213,
+            229,
+            251,
+            284
+        ]
+    },
+    {
+        "example_id": "knowledge-val-83",
+        "report": "reports/processed_reports/AOXY-2024-01-24_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            2,
+            3,
+            54
+        ]
+    },
+    {
+        "example_id": "knowledge-val-84",
+        "report": "reports/processed_reports/HFUS-2024-03-14_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            2,
+            3,
+            10
+        ]
+    },
+    {
+        "example_id": "knowledge-val-85",
+        "report": "reports/processed_reports/SMAPU-2024-03-29_10-K.json",
+        "retrieved_context": [
+            105,
+            109,
+            110,
+            112,
+            114
+        ]
+    },
+    {
+        "example_id": "knowledge-val-86",
+        "report": "reports/processed_reports/FGLD-2024-02-12_10-Q.json",
+        "retrieved_context": [
+            1,
+            2,
+            3,
+            7,
+            11
+        ]
+    },
+    {
+        "example_id": "knowledge-val-87",
+        "report": "reports/processed_reports/MBBC-2024-02-14_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            9,
+            19,
+            26
+        ]
+    },
+    {
+        "example_id": "knowledge-val-88",
+        "report": "reports/processed_reports/FLWS-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            3,
+            11,
+            44,
+            58,
+            82
+        ]
+    },
+    {
+        "example_id": "knowledge-val-89",
+        "report": "reports/processed_reports/WAVS-2024-04-26_10-K.json",
+        "retrieved_context": [
+            98,
+            103,
+            111,
+            116,
+            117
+        ]
+    },
+    {
+        "example_id": "knowledge-val-90",
+        "report": "reports/processed_reports/BODY-WT-2024-03-11_10-K.json",
+        "retrieved_context": [
+            2,
+            25,
+            75,
+            142,
+            205
+        ]
+    },
+    {
+        "example_id": "knowledge-val-91",
+        "report": "reports/processed_reports/NLITW-2024-04-01_10-K.json",
+        "retrieved_context": [
+            139,
+            169,
+            315,
+            327,
+            394
+        ]
+    },
+    {
+        "example_id": "knowledge-val-92",
+        "report": "reports/processed_reports/FF-2024-03-14_10-K.json",
+        "retrieved_context": [
+            231,
+            241,
+            416,
+            426,
+            429
+        ]
+    },
+    {
+        "example_id": "knowledge-val-93",
+        "report": "reports/processed_reports/CREX-2024-03-21_10-K.json",
+        "retrieved_context": [
+            98,
+            136,
+            202,
+            241,
+            243
+        ]
+    },
+    {
+        "example_id": "knowledge-val-94",
+        "report": "reports/processed_reports/CNSL-2024-03-05_10-K.json",
+        "retrieved_context": [
+            82,
+            89,
+            91,
+            114,
+            119
+        ]
+    },
+    {
+        "example_id": "knowledge-val-95",
+        "report": "reports/processed_reports/DLX-2024-02-22_10-K.json",
+        "retrieved_context": [
+            232,
+            300,
+            304,
+            426,
+            430
+        ]
+    },
+    {
+        "example_id": "knowledge-val-96",
+        "report": "reports/processed_reports/TT-2024-04-30_10-Q.json",
+        "retrieved_context": [
+            0,
+            2,
+            3,
+            19,
+            149
+        ]
+    },
+    {
+        "example_id": "knowledge-val-97",
+        "report": "reports/processed_reports/ACRS-2024-02-27_10-K.json",
+        "retrieved_context": [
+            60,
+            74,
+            75,
+            100,
+            110
+        ]
+    },
+    {
+        "example_id": "knowledge-val-98",
+        "report": "reports/processed_reports/LVVR-2024-03-27_10-K.json",
+        "retrieved_context": [
+            33,
+            34,
+            229,
+            231,
+            232
+        ]
+    },
+    {
+        "example_id": "knowledge-val-99",
+        "report": "reports/processed_reports/HHGCW-2024-04-01_10-K.json",
+        "retrieved_context": [
+            30,
+            42,
+            170,
+            180,
+            183
+        ]
+    },
+    {
+        "example_id": "knowledge-val-100",
+        "report": "reports/processed_reports/GBLX-2024-02-12_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            36,
+            37,
+            50
+        ]
+    },
+    {
+        "example_id": "knowledge-val-101",
+        "report": "reports/processed_reports/FREEW-2024-03-12_10-K.json",
+        "retrieved_context": [
+            70,
+            73,
+            122,
+            151,
+            413
+        ]
+    },
+    {
+        "example_id": "knowledge-val-102",
+        "report": "reports/processed_reports/HTZ-2024-04-25_10-Q.json",
+        "retrieved_context": [
+            7,
+            83,
+            84,
+            194,
+            205
+        ]
+    },
+    {
+        "example_id": "knowledge-val-103",
+        "report": "reports/processed_reports/LTRPA-2024-02-16_10-K.json",
+        "retrieved_context": [
+            40,
+            58,
+            62,
+            68,
+            69
+        ]
+    },
+    {
+        "example_id": "knowledge-val-104",
+        "report": "reports/processed_reports/MMTLP-2024-03-28_10-K.json",
+        "retrieved_context": [
+            235,
+            327,
+            330,
+            334,
+            345
+        ]
+    },
+    {
+        "example_id": "knowledge-val-105",
+        "report": "reports/processed_reports/PUCKU-2024-04-16_10-K.json",
+        "retrieved_context": [
+            50,
+            287,
+            289,
+            367,
+            395
+        ]
+    },
+    {
+        "example_id": "knowledge-val-106",
+        "report": "reports/processed_reports/LOOP-2024-01-16_10-Q.json",
+        "retrieved_context": [
+            1,
+            2,
+            3,
+            5,
+            120
+        ]
+    },
+    {
+        "example_id": "knowledge-val-107",
+        "report": "reports/processed_reports/THWWW-2024-03-13_10-K.json",
+        "retrieved_context": [
+            10,
+            23,
+            26,
+            28,
+            29
+        ]
+    },
+    {
+        "example_id": "knowledge-val-108",
+        "report": "reports/processed_reports/MMTLP-2024-03-28_10-K.json",
+        "retrieved_context": [
+            235,
+            330,
+            335,
+            343,
+            345
+        ]
+    },
+    {
+        "example_id": "knowledge-val-109",
+        "report": "reports/processed_reports/HGYN-2024-04-09_10-K.json",
+        "retrieved_context": [
+            35,
+            36,
+            82,
+            92,
+            115
+        ]
+    },
+    {
+        "example_id": "knowledge-val-110",
+        "report": "reports/processed_reports/SDSYA-2024-03-22_10-K.json",
+        "retrieved_context": [
+            65,
+            72,
+            146,
+            148,
+            195
+        ]
+    },
+    {
+        "example_id": "knowledge-val-111",
+        "report": "reports/processed_reports/PUCKU-2024-04-16_10-K.json",
+        "retrieved_context": [
+            215,
+            287,
+            288,
+            289,
+            331
+        ]
+    },
+    {
+        "example_id": "knowledge-val-112",
+        "report": "reports/processed_reports/FL-2024-03-28_10-K.json",
+        "retrieved_context": [
+            3,
+            92,
+            95,
+            100,
+            206
+        ]
+    },
+    {
+        "example_id": "knowledge-val-113",
+        "report": "reports/processed_reports/COO-2024-03-01_10-Q.json",
+        "retrieved_context": [
+            0,
+            16,
+            33,
+            67,
+            69
+        ]
+    },
+    {
+        "example_id": "knowledge-val-114",
+        "report": "reports/processed_reports/PMD-2024-03-28_10-K.json",
+        "retrieved_context": [
+            91,
+            92,
+            93,
+            94,
+            133
+        ]
+    },
+    {
+        "example_id": "knowledge-val-115",
+        "report": "reports/processed_reports/HGYN-2024-04-09_10-K.json",
+        "retrieved_context": [
+            30,
+            89,
+            90,
+            91,
+            93
+        ]
+    },
+    {
+        "example_id": "knowledge-val-116",
+        "report": "reports/processed_reports/BARK-2024-02-07_10-Q.json",
+        "retrieved_context": [
+            20,
+            29,
+            60,
+            73,
+            144
+        ]
+    },
+    {
+        "example_id": "knowledge-val-117",
+        "report": "reports/processed_reports/THWWW-2024-03-13_10-K.json",
+        "retrieved_context": [
+            59,
+            61,
+            68,
+            74,
+            91
+        ]
+    },
+    {
+        "example_id": "knowledge-val-118",
+        "report": "reports/processed_reports/THWWW-2024-03-13_10-K.json",
+        "retrieved_context": [
+            59,
+            61,
+            68,
+            91,
+            100
+        ]
+    },
+    {
+        "example_id": "knowledge-val-119",
+        "report": "reports/processed_reports/SCE-PL-2024-04-30_10-Q.json",
+        "retrieved_context": [
+            3,
+            7,
+            9,
+            10,
+            32
+        ]
+    },
+    {
+        "example_id": "knowledge-val-120",
+        "report": "reports/processed_reports/SMAPU-2024-03-29_10-K.json",
+        "retrieved_context": [
+            89,
+            104,
+            105,
+            106,
+            110
+        ]
+    },
+    {
+        "example_id": "knowledge-val-121",
+        "report": "reports/processed_reports/AOXY-2024-01-24_10-Q.json",
+        "retrieved_context": [
+            1,
+            2,
+            3,
+            47,
+            53
+        ]
+    },
+    {
+        "example_id": "knowledge-val-122",
+        "report": "reports/processed_reports/HLI-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            2,
+            80,
+            118
+        ]
+    },
+    {
+        "example_id": "knowledge-val-123",
+        "report": "reports/processed_reports/GBOX-2024-03-26_10-K.json",
+        "retrieved_context": [
+            101,
+            160,
+            185,
+            186,
+            235
+        ]
+    },
+    {
+        "example_id": "knowledge-val-124",
+        "report": "reports/processed_reports/INOD-2024-03-04_10-K.json",
+        "retrieved_context": [
+            25,
+            72,
+            73,
+            86,
+            97
+        ]
+    },
+    {
+        "example_id": "knowledge-val-125",
+        "report": "reports/processed_reports/AFGC-2024-02-23_10-K.json",
+        "retrieved_context": [
+            89,
+            322,
+            326,
+            328,
+            369
+        ]
+    },
+    {
+        "example_id": "knowledge-val-126",
+        "report": "reports/processed_reports/LTRPA-2024-02-16_10-K.json",
+        "retrieved_context": [
+            30,
+            54,
+            58,
+            62,
+            71
+        ]
+    },
+    {
+        "example_id": "knowledge-val-127",
+        "report": "reports/processed_reports/IRDM-2024-04-18_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            20,
+            31,
+            105
+        ]
+    },
+    {
+        "example_id": "knowledge-val-128",
+        "report": "reports/processed_reports/TT-2024-04-30_10-Q.json",
+        "retrieved_context": [
+            2,
+            71,
+            77,
+            79,
+            136
+        ]
+    },
+    {
+        "example_id": "knowledge-val-129",
+        "report": "reports/processed_reports/THWWW-2024-03-13_10-K.json",
+        "retrieved_context": [
+            59,
+            61,
+            87,
+            91,
+            116
+        ]
+    },
+    {
+        "example_id": "knowledge-val-130",
+        "report": "reports/processed_reports/FNGR-2024-01-16_10-Q.json",
+        "retrieved_context": [
+            98,
+            104,
+            116,
+            220,
+            222
+        ]
+    },
+    {
+        "example_id": "knowledge-val-131",
+        "report": "reports/processed_reports/GOOG-2024-04-26_10-Q.json",
+        "retrieved_context": [
+            0,
+            17,
+            18,
+            52,
+            119
+        ]
+    },
+    {
+        "example_id": "knowledge-val-132",
+        "report": "reports/processed_reports/RFACR-2024-04-25_10-K.json",
+        "retrieved_context": [
+            101,
+            104,
+            107,
+            108,
+            116
+        ]
+    },
+    {
+        "example_id": "knowledge-val-133",
+        "report": "reports/processed_reports/TDUP-2024-03-05_10-K.json",
+        "retrieved_context": [
+            178,
+            203,
+            240,
+            247,
+            319
+        ]
+    },
+    {
+        "example_id": "knowledge-val-134",
+        "report": "reports/processed_reports/FF-2024-03-14_10-K.json",
+        "retrieved_context": [
+            231,
+            241,
+            395,
+            416,
+            417
+        ]
+    },
+    {
+        "example_id": "knowledge-val-135",
+        "report": "reports/processed_reports/HY-2024-02-27_10-K.json",
+        "retrieved_context": [
+            18,
+            77,
+            104,
+            139,
+            172
+        ]
+    },
+    {
+        "example_id": "knowledge-val-136",
+        "report": "reports/processed_reports/UBFO-2024-03-26_10-K.json",
+        "retrieved_context": [
+            113,
+            134,
+            155,
+            156,
+            315
+        ]
+    },
+    {
+        "example_id": "knowledge-val-137",
+        "report": "reports/processed_reports/VRSSF-2024-04-01_10-K.json",
+        "retrieved_context": [
+            235,
+            236,
+            302,
+            311,
+            314
+        ]
+    },
+    {
+        "example_id": "knowledge-val-138",
+        "report": "reports/processed_reports/AOXY-2024-01-24_10-Q.json",
+        "retrieved_context": [
+            2,
+            3,
+            47,
+            53,
+            54
+        ]
+    },
+    {
+        "example_id": "knowledge-val-139",
+        "report": "reports/processed_reports/CREX-2024-03-21_10-K.json",
+        "retrieved_context": [
+            65,
+            94,
+            136,
+            243,
+            250
+        ]
+    },
+    {
+        "example_id": "knowledge-val-140",
+        "report": "reports/processed_reports/WAVS-2024-04-26_10-K.json",
+        "retrieved_context": [
+            98,
+            100,
+            101,
+            116,
+            117
+        ]
+    },
+    {
+        "example_id": "knowledge-val-141",
+        "report": "reports/processed_reports/UBFO-2024-03-26_10-K.json",
+        "retrieved_context": [
+            113,
+            120,
+            155,
+            158,
+            315
+        ]
+    },
+    {
+        "example_id": "knowledge-val-142",
+        "report": "reports/processed_reports/TDG-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            59,
+            68,
+            71,
+            103,
+            167
+        ]
+    },
+    {
+        "example_id": "knowledge-val-143",
+        "report": "reports/processed_reports/FREEW-2024-03-12_10-K.json",
+        "retrieved_context": [
+            134,
+            228,
+            229,
+            231,
+            233
+        ]
+    },
+    {
+        "example_id": "knowledge-val-144",
+        "report": "reports/processed_reports/AESE-2024-03-28_10-K.json",
+        "retrieved_context": [
+            172,
+            173,
+            175,
+            219,
+            244
+        ]
+    },
+    {
+        "example_id": "knowledge-val-145",
+        "report": "reports/processed_reports/GBLX-2024-02-12_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            2,
+            5,
+            7
+        ]
+    },
+    {
+        "example_id": "knowledge-val-146",
+        "report": "reports/processed_reports/RSRV-2024-03-28_10-K.json",
+        "retrieved_context": [
+            25,
+            30,
+            50,
+            78,
+            94
+        ]
+    },
+    {
+        "example_id": "knowledge-val-147",
+        "report": "reports/processed_reports/NDRA-2024-03-28_10-K.json",
+        "retrieved_context": [
+            48,
+            71,
+            82,
+            156,
+            165
+        ]
+    },
+    {
+        "example_id": "knowledge-val-148",
+        "report": "reports/processed_reports/FLWS-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            0,
+            2,
+            11,
+            21,
+            110
+        ]
+    },
+    {
+        "example_id": "knowledge-val-149",
+        "report": "reports/processed_reports/RSKIA-2024-03-15_10-Q.json",
+        "retrieved_context": [
+            2,
+            3,
+            4,
+            8,
+            53
+        ]
+    },
+    {
+        "example_id": "knowledge-val-150",
+        "report": "reports/processed_reports/SCE-PL-2024-04-30_10-Q.json",
+        "retrieved_context": [
+            3,
+            7,
+            9,
+            10,
+            32
+        ]
+    },
+    {
+        "example_id": "knowledge-val-151",
+        "report": "reports/processed_reports/ICD-2024-02-28_10-K.json",
+        "retrieved_context": [
+            43,
+            69,
+            80,
+            93,
+            94
+        ]
+    },
+    {
+        "example_id": "knowledge-val-152",
+        "report": "reports/processed_reports/DSNY-2024-01-16_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            8,
+            9,
+            48
+        ]
+    },
+    {
+        "example_id": "knowledge-val-153",
+        "report": "reports/processed_reports/THWWW-2024-03-13_10-K.json",
+        "retrieved_context": [
+            59,
+            61,
+            68,
+            74,
+            91
+        ]
+    },
+    {
+        "example_id": "knowledge-val-154",
+        "report": "reports/processed_reports/DIS-2024-02-07_10-Q.json",
+        "retrieved_context": [
+            2,
+            4,
+            13,
+            46,
+            203
+        ]
+    },
+    {
+        "example_id": "knowledge-val-155",
+        "report": "reports/processed_reports/LNKB-2024-03-29_10-K.json",
+        "retrieved_context": [
+            194,
+            197,
+            199,
+            255,
+            296
+        ]
+    },
+    {
+        "example_id": "knowledge-val-156",
+        "report": "reports/processed_reports/SMAPU-2024-03-29_10-K.json",
+        "retrieved_context": [
+            62,
+            89,
+            103,
+            104,
+            110
+        ]
+    },
+    {
+        "example_id": "knowledge-val-157",
+        "report": "reports/processed_reports/FL-2024-03-28_10-K.json",
+        "retrieved_context": [
+            95,
+            159,
+            251,
+            343,
+            375
+        ]
+    },
+    {
+        "example_id": "knowledge-val-158",
+        "report": "reports/processed_reports/HPQ-2024-02-28_10-Q.json",
+        "retrieved_context": [
+            54,
+            57,
+            68,
+            71,
+            76
+        ]
+    },
+    {
+        "example_id": "knowledge-val-159",
+        "report": "reports/processed_reports/CREX-2024-03-21_10-K.json",
+        "retrieved_context": [
+            118,
+            136,
+            169,
+            241,
+            250
+        ]
+    },
+    {
+        "example_id": "knowledge-val-160",
+        "report": "reports/processed_reports/APOG-2024-01-03_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            21,
+            26,
+            67
+        ]
+    },
+    {
+        "example_id": "knowledge-val-161",
+        "report": "reports/processed_reports/THWWW-2024-03-13_10-K.json",
+        "retrieved_context": [
+            59,
+            61,
+            68,
+            91,
+            100
+        ]
+    },
+    {
+        "example_id": "knowledge-val-162",
+        "report": "reports/processed_reports/MCCX-2024-04-15_10-K.json",
+        "retrieved_context": [
+            77,
+            124,
+            132,
+            133,
+            137
+        ]
+    },
+    {
+        "example_id": "knowledge-val-163",
+        "report": "reports/processed_reports/HGYN-2024-04-09_10-K.json",
+        "retrieved_context": [
+            15,
+            71,
+            73,
+            79,
+            82
+        ]
+    },
+    {
+        "example_id": "knowledge-val-164",
+        "report": "reports/processed_reports/CNGLW-2024-04-16_10-K.json",
+        "retrieved_context": [
+            217,
+            218,
+            219,
+            220,
+            276
+        ]
+    },
+    {
+        "example_id": "knowledge-val-165",
+        "report": "reports/processed_reports/BGXX-2024-04-16_10-K.json",
+        "retrieved_context": [
+            210,
+            254,
+            255,
+            256,
+            257
+        ]
+    },
+    {
+        "example_id": "knowledge-val-166",
+        "report": "reports/processed_reports/HAE-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            0,
+            2,
+            77,
+            91,
+            143
+        ]
+    },
+    {
+        "example_id": "knowledge-val-167",
+        "report": "reports/processed_reports/MAS-2024-02-08_10-K.json",
+        "retrieved_context": [
+            74,
+            96,
+            174,
+            231,
+            298
+        ]
+    },
+    {
+        "example_id": "knowledge-val-168",
+        "report": "reports/processed_reports/HFUS-2024-03-14_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "example_id": "knowledge-val-169",
+        "report": "reports/processed_reports/VRSSF-2024-04-01_10-K.json",
+        "retrieved_context": [
+            45,
+            52,
+            198,
+            236,
+            311
+        ]
+    },
+    {
+        "example_id": "knowledge-val-170",
+        "report": "reports/processed_reports/HFUS-2024-03-14_10-Q.json",
+        "retrieved_context": [
+            1,
+            2,
+            3,
+            5,
+            28
+        ]
+    },
+    {
+        "example_id": "knowledge-val-171",
+        "report": "reports/processed_reports/DIS-2024-02-07_10-Q.json",
+        "retrieved_context": [
+            2,
+            13,
+            45,
+            46,
+            61
+        ]
+    },
+    {
+        "example_id": "knowledge-val-172",
+        "report": "reports/processed_reports/ITIC-2024-03-15_10-K.json",
+        "retrieved_context": [
+            121,
+            197,
+            199,
+            264,
+            352
+        ]
+    },
+    {
+        "example_id": "knowledge-val-173",
+        "report": "reports/processed_reports/GBLX-2024-02-12_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            3,
+            4,
+            6
+        ]
+    },
+    {
+        "example_id": "knowledge-val-174",
+        "report": "reports/processed_reports/HTZ-2024-04-25_10-Q.json",
+        "retrieved_context": [
+            5,
+            7,
+            83,
+            84,
+            205
+        ]
+    },
+    {
+        "example_id": "knowledge-val-175",
+        "report": "reports/processed_reports/DAN-2024-02-20_10-K.json",
+        "retrieved_context": [
+            3,
+            80,
+            122,
+            378,
+            381
+        ]
+    },
+    {
+        "example_id": "knowledge-val-176",
+        "report": "reports/processed_reports/DLA-2024-02-13_10-Q.json",
+        "retrieved_context": [
+            4,
+            93,
+            95,
+            96,
+            123
+        ]
+    },
+    {
+        "example_id": "knowledge-val-177",
+        "report": "reports/processed_reports/HY-2024-02-27_10-K.json",
+        "retrieved_context": [
+            139,
+            229,
+            277,
+            310,
+            343
+        ]
+    },
+    {
+        "example_id": "knowledge-val-178",
+        "report": "reports/processed_reports/SOHOO-2024-03-22_10-K.json",
+        "retrieved_context": [
+            213,
+            251,
+            327,
+            340,
+            352
+        ]
+    },
+    {
+        "example_id": "knowledge-val-179",
+        "report": "reports/processed_reports/ACBAW-2024-03-27_10-K.json",
+        "retrieved_context": [
+            12,
+            39,
+            47,
+            66,
+            141
+        ]
+    },
+    {
+        "example_id": "knowledge-val-180",
+        "report": "reports/processed_reports/BARK-2024-02-07_10-Q.json",
+        "retrieved_context": [
+            0,
+            20,
+            29,
+            60,
+            73
+        ]
+    },
+    {
+        "example_id": "knowledge-val-181",
+        "report": "reports/processed_reports/CNGLW-2024-04-16_10-K.json",
+        "retrieved_context": [
+            29,
+            65,
+            78,
+            83,
+            95
+        ]
+    },
+    {
+        "example_id": "knowledge-val-182",
+        "report": "reports/processed_reports/CDZI-2024-03-28_10-K.json",
+        "retrieved_context": [
+            154,
+            183,
+            224,
+            227,
+            229
+        ]
+    },
+    {
+        "example_id": "knowledge-val-183",
+        "report": "reports/processed_reports/MAS-2024-02-08_10-K.json",
+        "retrieved_context": [
+            74,
+            96,
+            207,
+            208,
+            298
+        ]
+    },
+    {
+        "example_id": "knowledge-val-184",
+        "report": "reports/processed_reports/HHGCW-2024-04-01_10-K.json",
+        "retrieved_context": [
+            36,
+            42,
+            119,
+            170,
+            180
+        ]
+    },
+    {
+        "example_id": "knowledge-val-185",
+        "report": "reports/processed_reports/CRSR-2024-02-27_10-K.json",
+        "retrieved_context": [
+            74,
+            330,
+            331,
+            332,
+            333
+        ]
+    },
+    {
+        "example_id": "knowledge-val-186",
+        "report": "reports/processed_reports/AOXY-2024-01-24_10-Q.json",
+        "retrieved_context": [
+            0,
+            2,
+            3,
+            47,
+            54
+        ]
+    },
+    {
+        "example_id": "knowledge-val-187",
+        "report": "reports/processed_reports/HHGCW-2024-04-01_10-K.json",
+        "retrieved_context": [
+            179,
+            185,
+            189,
+            248,
+            249
+        ]
+    },
+    {
+        "example_id": "knowledge-val-188",
+        "report": "reports/processed_reports/DAN-2024-02-20_10-K.json",
+        "retrieved_context": [
+            185,
+            190,
+            307,
+            362,
+            378
+        ]
+    },
+    {
+        "example_id": "knowledge-val-189",
+        "report": "reports/processed_reports/MAS-2024-02-08_10-K.json",
+        "retrieved_context": [
+            74,
+            154,
+            166,
+            174,
+            231
+        ]
+    },
+    {
+        "example_id": "knowledge-val-190",
+        "report": "reports/processed_reports/SDSYA-2024-03-22_10-K.json",
+        "retrieved_context": [
+            72,
+            146,
+            148,
+            172,
+            178
+        ]
+    },
+    {
+        "example_id": "knowledge-val-191",
+        "report": "reports/processed_reports/CPRI-2024-02-08_10-Q.json",
+        "retrieved_context": [
+            0,
+            3,
+            80,
+            82,
+            158
+        ]
+    },
+    {
+        "example_id": "knowledge-val-192",
+        "report": "reports/processed_reports/DSNY-2024-01-16_10-Q.json",
+        "retrieved_context": [
+            0,
+            1,
+            9,
+            34,
+            57
+        ]
+    },
+    {
+        "example_id": "knowledge-val-193",
+        "report": "reports/processed_reports/CRSR-2024-02-27_10-K.json",
+        "retrieved_context": [
+            117,
+            330,
+            331,
+            332,
+            333
+        ]
+    },
+    {
+        "example_id": "knowledge-val-194",
+        "report": "reports/processed_reports/NVACR-2024-02-26_10-K.json",
+        "retrieved_context": [
+            261,
+            264,
+            270,
+            301,
+            405
+        ]
+    },
+    {
+        "example_id": "knowledge-val-195",
+        "report": "reports/processed_reports/NDRA-2024-03-28_10-K.json",
+        "retrieved_context": [
+            165,
+            217,
+            235,
+            236,
+            340
+        ]
+    },
+    {
+        "example_id": "knowledge-val-196",
+        "report": "reports/processed_reports/BARK-2024-02-07_10-Q.json",
+        "retrieved_context": [
+            0,
+            44,
+            60,
+            73,
+            165
+        ]
+    },
+    {
+        "example_id": "knowledge-val-197",
+        "report": "reports/processed_reports/IRDM-2024-04-18_10-Q.json",
+        "retrieved_context": [
+            0,
+            16,
+            33,
+            118,
+            121
+        ]
+    },
+    {
+        "example_id": "knowledge-val-198",
+        "report": "reports/processed_reports/HQY-2024-03-22_10-K.json",
+        "retrieved_context": [
+            60,
+            69,
+            187,
+            277,
+            294
+        ]
+    },
+    {
+        "example_id": "knowledge-val-199",
+        "report": "reports/processed_reports/CPSH-2024-03-14_10-K.json",
+        "retrieved_context": [
+            106,
+            137,
+            139,
+            147,
+            149
+        ]
+    }
+]
