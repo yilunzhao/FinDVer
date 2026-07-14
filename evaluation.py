@@ -16,7 +16,7 @@ signal.signal(signal.SIGALRM, timeout_handler)
 def get_result(processed_data):
     # Initialize counters for each subset and each split
     results = {
-        # "test": {"correct": 0, "correct_ie": 0, "correct_knowledge": 0, "correct_numeric": 0, "subset_counts": {"ie": 0, "knowledge": 0, "numeric": 0}},
+        "test": {"correct": 0, "correct_ie": 0, "correct_knowledge": 0, "correct_numeric": 0, "subset_counts": {"ie": 0, "knowledge": 0, "numeric": 0}},
         "testmini": {"correct": 0, "correct_ie": 0, "correct_knowledge": 0, "correct_numeric": 0, "subset_counts": {"ie": 0, "knowledge": 0, "numeric": 0}}
     }
 
@@ -47,19 +47,19 @@ def get_result(processed_data):
         return avg_acc, avg_acc_ie, avg_acc_knowledge, avg_acc_numeric
 
     # Get total counts for test and validation splits
-    # test_count = sum(results["test"]["subset_counts"].values())
+    test_count = sum(results["test"]["subset_counts"].values())
     testmini_count = sum(results["testmini"]["subset_counts"].values())
 
     # Calculate accuracies for test and validation
-    # test_accuracies = calculate_accuracies(results["test"], test_count)
+    test_accuracies = calculate_accuracies(results["test"], test_count)
     testmini_accuracies = calculate_accuracies(results["testmini"], testmini_count)
 
     return {
-        # "test": test_accuracies[0],
+        "test": test_accuracies[0],
         "testmini": testmini_accuracies[0],
-        # "test_ie": test_accuracies[1],
-        # "test_knowledge": test_accuracies[2],
-        # "test_numeric": test_accuracies[3],
+        "test_ie": test_accuracies[1],
+        "test_knowledge": test_accuracies[2],
+        "test_numeric": test_accuracies[3],
         "testmini_ie": testmini_accuracies[1],
         "testmini_knowledge": testmini_accuracies[2],
         "testmini_numeric": testmini_accuracies[3]
@@ -116,17 +116,19 @@ if __name__ == "__main__":
     if os.path.exists(output_path):
         processed_data = json.load(open(output_path, "r"))
         score = get_result(processed_data)
+        split = processed_data[0]["split"]
     else:
         prediction_data = json.load(open(args.prediction_path, "r"))
-        
+
         eval_func = evaluate_cot_pred_file if args.prompt_type == "cot" else evaluate_do_pred_file
         outputs = eval_func(prediction_data, client)
         score = get_result(outputs)
+        split = outputs[0]["split"]
 
         json.dump(outputs, open(output_path, "w"), indent=4, ensure_ascii=False)
 
-        
-    print(f"Accuracy: {score['testmini']}")
+
+    print(f"Accuracy ({split}): {score[split]}")
 
     model_name = file_name.split(".")[0]
 
@@ -146,5 +148,5 @@ if __name__ == "__main__":
     results.append(entry)
 
     os.makedirs(os.path.dirname(args.result_file), exist_ok=True)
-    results = sorted(results, key=lambda x: x["testmini"], reverse=True)
+    results = sorted(results, key=lambda x: x.get(split, 0), reverse=True)
     json.dump(results, open(args.result_file, "w"), indent=4, ensure_ascii=False)

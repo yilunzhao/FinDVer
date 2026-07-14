@@ -9,7 +9,7 @@ All the data examples were divided into three subsets:
 - **FDV-MATH** (numerical reasoning, `numeric`), which necessitates performing calculations or statistical analysis based on data within the document.
 - **FDV-KNOW** (knowledge-intensive reasoning, `knowledge`), which requires integrating external domain-specific knowledge or regulations for claim verification.
 
-For each subset, we provide the *testmini* and *test* splits. 
+For each subset, we provide the *testmini* and *test* splits. **Update (July 2026):** the `explanation`, `entailment_label`, and `relevant_context` annotations for the *test* split are now publicly released as well, so both splits can be evaluated locally.
 
 The dataset is provided in the `data` folder and contains the following attributes:
 
@@ -59,16 +59,7 @@ We provide all the model outputs reported in the paper at [Google Drive](https:/
 
 
 ### Test Set Evaluation
-To get the results on the test set, please send your result json file to [this email](mailto:yilun.zhao@yale.edu). The result json file should at least include these features:
-
-```
-[
-    {
-        "example_id": [string] The question id
-        "output_label": [bool] The model output, True for entailment and False for non-entailment
-    }
-]
-```
+Since the test set ground truth (`entailment_label`, `explanation`, and `relevant_context`) is now publicly released, the test split can be evaluated locally with the same procedure as `testmini`. Submitting results by email is no longer required.
 
 ## Contact
 For any issues or questions, kindly email us at: Yilun Zhao (yilun.zhao@yale.edu).
